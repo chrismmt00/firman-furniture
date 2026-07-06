@@ -1,8 +1,9 @@
 import { Cormorant_Garamond, DM_Sans } from 'next/font/google'
 import './globals.css'
-import Header from '@/components/layout/Header'
-import Footer from '@/components/layout/Footer'
 import ToastProvider from '@/components/ui/ToastProvider'
+import StoreProvider from '@/components/providers/StoreProvider'
+import Chrome from '@/components/layout/Chrome'
+import { getAllProducts } from '@/lib/products'
 
 const cormorant = Cormorant_Garamond({
   subsets: ['latin'],
@@ -33,14 +34,31 @@ export const metadata = {
   },
 }
 
-export default function RootLayout({ children }) {
+export default async function RootLayout({ children }) {
+  // Lightweight product index for the global search overlay.
+  let searchIndex = []
+  try {
+    const products = await getAllProducts()
+    searchIndex = products.map((p) => ({
+      id: p.id,
+      slug: p.slug,
+      name: p.name,
+      category: p.category,
+      price: p.price,
+      priceFmt: p.priceFmt,
+      image: p.image,
+    }))
+  } catch {
+    // DB unavailable at build/render time — search simply has no index.
+  }
+
   return (
     <html lang="en" className={`${cormorant.variable} ${dmSans.variable}`}>
       <body>
         <ToastProvider>
-          <Header />
-          <main>{children}</main>
-          <Footer />
+          <StoreProvider searchIndex={searchIndex}>
+            <Chrome>{children}</Chrome>
+          </StoreProvider>
         </ToastProvider>
       </body>
     </html>

@@ -8,15 +8,23 @@
     "start": "next start",
     "lint": "eslint",
     "db:generate": "drizzle-kit generate",
+    "db:setup:local": "node scripts/setup-local-database.mjs",
     "db:migrate": "drizzle-kit migrate",
     "db:push": "drizzle-kit push",
     "db:studio": "drizzle-kit studio",
-    "db:check": "drizzle-kit check"
+    "db:check": "drizzle-kit check",
+    "db:validate:products": "node scripts/import-products.mjs --dry-run",
+    "db:import:products": "node scripts/import-products.mjs",
+    "db:verify:products": "node scripts/verify-products.mjs",
+    "db:verify:product-images": "node scripts/verify-products.mjs --require-images",
+    "db:verify:product-gallery": "node scripts/verify-products.mjs --min-images=2",
+    "db:verify:product-prices": "node scripts/verify-products.mjs --min-price-cents=1"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.1.0",
     "drizzle-orm": "^0.45.2",
     "next": "16.2.4",
+    "postgres": "^3.4.9",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },

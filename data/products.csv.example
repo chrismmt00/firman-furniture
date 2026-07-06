@@ -1,0 +1,2 @@
+name,slug,category,shortDescription,description,priceCents,compareAtPriceCents,tradePriceCents,sku,material,color,stockQuantity,status,isFeatured,tags,images
+"Example Sofa","example-sofa","Living Room","A short merchandising sentence for product grids.","A fuller product description for the PDP.",980000,,,"FF-EXAMPLE-001","Boucle, oak","Ivory",8,published,true,"sofa|living-room","https://example.com/example-sofa.jpg"

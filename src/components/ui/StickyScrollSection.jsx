@@ -23,8 +23,8 @@ export default function StickyScrollSection({
   useEffect(() => {
     const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches
     if (prefersReducedMotion || disabled) {
-      setScrollProgress(1)
-      return
+      const timeoutId = window.setTimeout(() => setScrollProgress(1), 0)
+      return () => window.clearTimeout(timeoutId)
     }
 
     const wrapper = wrapperRef.current

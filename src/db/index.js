@@ -1,19 +1,27 @@
-import { neon } from '@neondatabase/serverless'
-import { drizzle } from 'drizzle-orm/neon-http'
+import postgres from 'postgres'
+import { drizzle } from 'drizzle-orm/postgres-js'
 import * as schema from './schema'
 
-let dbClient = null
+let queryClient = null
+let drizzleClient = null
 
 export function getDb() {
   if (!process.env.DATABASE_URL) {
     throw new Error('DATABASE_URL is required to initialize the database client.')
   }
 
-  if (!dbClient) {
-    dbClient = drizzle(neon(process.env.DATABASE_URL), { schema })
+  if (!queryClient) {
+    queryClient = postgres(process.env.DATABASE_URL, {
+      max: 1,
+      prepare: false,
+    })
   }
 
-  return dbClient
+  if (!drizzleClient) {
+    drizzleClient = drizzle(queryClient, { schema })
+  }
+
+  return drizzleClient
 }
 
 export { schema }

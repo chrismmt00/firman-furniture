@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+/data/source/2026-Supplement.pdf
 
 # debug
 npm-debug.log*

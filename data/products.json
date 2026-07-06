@@ -1,0 +1,5005 @@
+[
+  {
+    "name": "Leandro Queen Bed",
+    "slug": "leandro-queen-bed-222491q",
+    "category": "Bedroom",
+    "shortDescription": "Burnished black queen bed with a cream chenille shelter headboard.",
+    "description": "From the 2026 Coaster Supplement Leandro bedroom collection. Queen bed in a Sherwin Williams black wood finish with rich brown undertones and cream chenille upholstery. Dimensions: 65.50 in W x 90.50 in D x 54.50 in H.",
+    "priceCents": 129900,
+    "sku": "222491Q",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood, foam, fabric",
+    "color": "Burnished Black / Cream Chenille",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "bedroom",
+      "bed",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_01xHD.jpg",
+        "altText": "Leandro Queen Bed view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_02xHD.jpg",
+        "altText": "Leandro Queen Bed view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_03xHD.jpg",
+        "altText": "Leandro Queen Bed view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_04xHD.jpg",
+        "altText": "Leandro Queen Bed view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_05xHD.jpg",
+        "altText": "Leandro Queen Bed view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_06xHD.jpg",
+        "altText": "Leandro Queen Bed view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_07xHD.jpg",
+        "altText": "Leandro Queen Bed view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_08xHD.jpg",
+        "altText": "Leandro Queen Bed view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_09xHD.jpg",
+        "altText": "Leandro Queen Bed view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_11xHD.jpg",
+        "altText": "Leandro Queen Bed view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491Q/222491Q_12xHD.jpg",
+        "altText": "Leandro Queen Bed view 12"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Eastern King Bed",
+    "slug": "leandro-eastern-king-bed-222491ke",
+    "category": "Bedroom",
+    "shortDescription": "Burnished black eastern king bed with a cream chenille shelter headboard.",
+    "description": "From the 2026 Coaster Supplement Leandro bedroom collection. Eastern king bed in a Sherwin Williams black wood finish with rich brown undertones and cream chenille upholstery. Dimensions: 81.50 in W x 90.50 in D x 54.50 in H.",
+    "priceCents": 149900,
+    "sku": "222491KE",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood, foam, fabric",
+    "color": "Burnished Black / Cream Chenille",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "bedroom",
+      "bed",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_01xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_02xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_03xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_04xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_05xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_06xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_07xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_08xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_09xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_11xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KE/222491KE_12xHD.jpg",
+        "altText": "Leandro Eastern King Bed view 12"
+      }
+    ]
+  },
+  {
+    "name": "Leandro California King Bed",
+    "slug": "leandro-california-king-bed-222491kw",
+    "category": "Bedroom",
+    "shortDescription": "Burnished black California king bed with a cream chenille shelter headboard.",
+    "description": "From the 2026 Coaster Supplement Leandro bedroom collection. California king bed in a Sherwin Williams black wood finish with rich brown undertones and cream chenille upholstery. Dimensions: 81.50 in W x 94.75 in D x 54.50 in H.",
+    "priceCents": 154900,
+    "sku": "222491KW",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood, foam, fabric",
+    "color": "Burnished Black / Cream Chenille",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "bedroom",
+      "bed",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_01xHD.jpg",
+        "altText": "Leandro California King Bed view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_02xHD.jpg",
+        "altText": "Leandro California King Bed view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_03xHD.jpg",
+        "altText": "Leandro California King Bed view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_04xHD.jpg",
+        "altText": "Leandro California King Bed view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_05xHD.jpg",
+        "altText": "Leandro California King Bed view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_06xHD.jpg",
+        "altText": "Leandro California King Bed view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_07xHD.jpg",
+        "altText": "Leandro California King Bed view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_08xHD.jpg",
+        "altText": "Leandro California King Bed view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_09xHD.jpg",
+        "altText": "Leandro California King Bed view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_11xHD.jpg",
+        "altText": "Leandro California King Bed view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222491KW/222491KW_12xHD.jpg",
+        "altText": "Leandro California King Bed view 12"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Nightstand",
+    "slug": "leandro-nightstand-222492",
+    "category": "Bedroom",
+    "shortDescription": "Burnished black nightstand with built-in LED lighting and charging ports.",
+    "description": "From the 2026 Coaster Supplement Leandro bedroom collection. Nightstand with LED touch lighting, one USB port, one Type-C charging port, soft-closing drawer glides, black felt-lined top drawer, tinted drawer boxes, and English dovetail construction. Dimensions: 28.25 in W x 17.25 in D x 26.50 in H.",
+    "priceCents": 39900,
+    "sku": "222492",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood",
+    "color": "Burnished Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "bedroom",
+      "nightstand",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_01xHD.jpg",
+        "altText": "Leandro Nightstand view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_02xHD.jpg",
+        "altText": "Leandro Nightstand view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_03xHD.jpg",
+        "altText": "Leandro Nightstand view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_04xHD.jpg",
+        "altText": "Leandro Nightstand view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_05xHD.jpg",
+        "altText": "Leandro Nightstand view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_06xHD.jpg",
+        "altText": "Leandro Nightstand view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_07xHD.jpg",
+        "altText": "Leandro Nightstand view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_08xHD.jpg",
+        "altText": "Leandro Nightstand view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_09xHD.jpg",
+        "altText": "Leandro Nightstand view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_10xHD.jpg",
+        "altText": "Leandro Nightstand view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_11xHD.jpg",
+        "altText": "Leandro Nightstand view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_12xHD.jpg",
+        "altText": "Leandro Nightstand view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_13xHD.jpg",
+        "altText": "Leandro Nightstand view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222492/222492_14xHD.jpg",
+        "altText": "Leandro Nightstand view 14"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Dresser",
+    "slug": "leandro-dresser-222493",
+    "category": "Bedroom",
+    "shortDescription": "Burnished black dresser with soft-closing drawer glides.",
+    "description": "From the 2026 Coaster Supplement Leandro bedroom collection. Dresser with soft-closing drawer glides, black felt-lined top drawers, tinted drawer boxes, and English dovetail front and back construction. Dimensions: 66.00 in W x 19.00 in D x 36.50 in H.",
+    "priceCents": 119900,
+    "sku": "222493",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood",
+    "color": "Burnished Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "bedroom",
+      "dresser",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_01xHD.jpg",
+        "altText": "Leandro Dresser view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_02xHD.jpg",
+        "altText": "Leandro Dresser view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_03xHD.jpg",
+        "altText": "Leandro Dresser view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_04xHD.jpg",
+        "altText": "Leandro Dresser view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_05xHD.jpg",
+        "altText": "Leandro Dresser view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_06xHD.jpg",
+        "altText": "Leandro Dresser view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_07xHD.jpg",
+        "altText": "Leandro Dresser view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_08xHD.jpg",
+        "altText": "Leandro Dresser view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_09xHD.jpg",
+        "altText": "Leandro Dresser view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_10xHD.jpg",
+        "altText": "Leandro Dresser view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_11xHD.jpg",
+        "altText": "Leandro Dresser view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_12xHD.jpg",
+        "altText": "Leandro Dresser view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222493/222493_13xHD.jpg",
+        "altText": "Leandro Dresser view 13"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Dresser Mirror",
+    "slug": "leandro-dresser-mirror-222494",
+    "category": "Bedroom",
+    "shortDescription": "Burnished black dresser mirror for the Leandro bedroom collection.",
+    "description": "From the 2026 Coaster Supplement Leandro bedroom collection. Coordinating dresser mirror. Dimensions: 44.00 in W x 1.75 in D x 41.00 in H.",
+    "priceCents": 24900,
+    "sku": "222494",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood, mirror",
+    "color": "Burnished Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "bedroom",
+      "mirror",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222494/222494_01xHD.jpg",
+        "altText": "Leandro Dresser Mirror view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222494/222494_02xHD.jpg",
+        "altText": "Leandro Dresser Mirror view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222494/222494_03xHD.jpg",
+        "altText": "Leandro Dresser Mirror view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222494/222494_04xHD.jpg",
+        "altText": "Leandro Dresser Mirror view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222494/222494_05xHD.jpg",
+        "altText": "Leandro Dresser Mirror view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222494/222494_06xHD.jpg",
+        "altText": "Leandro Dresser Mirror view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222494/222494_10xHD.jpg",
+        "altText": "Leandro Dresser Mirror view 10"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Chest",
+    "slug": "leandro-chest-222495",
+    "category": "Bedroom",
+    "shortDescription": "Burnished black chest from the Leandro bedroom collection.",
+    "description": "From the 2026 Coaster Supplement Leandro bedroom collection. Chest with coordinating burnished black finish. Dimensions: 40.00 in W x 19.00 in D x 52.50 in H.",
+    "priceCents": 89900,
+    "sku": "222495",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood",
+    "color": "Burnished Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "bedroom",
+      "chest",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_01xHD.jpg",
+        "altText": "Leandro Chest view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_02xHD.jpg",
+        "altText": "Leandro Chest view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_03xHD.jpg",
+        "altText": "Leandro Chest view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_04xHD.jpg",
+        "altText": "Leandro Chest view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_05xHD.jpg",
+        "altText": "Leandro Chest view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_06xHD.jpg",
+        "altText": "Leandro Chest view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_07xHD.jpg",
+        "altText": "Leandro Chest view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_08xHD.jpg",
+        "altText": "Leandro Chest view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_09xHD.jpg",
+        "altText": "Leandro Chest view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_10xHD.jpg",
+        "altText": "Leandro Chest view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_11xHD.jpg",
+        "altText": "Leandro Chest view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_12xHD.jpg",
+        "altText": "Leandro Chest view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222495/222495_13xHD.jpg",
+        "altText": "Leandro Chest view 13"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Floor Mirror",
+    "slug": "leandro-floor-mirror-222498",
+    "category": "Bedroom",
+    "shortDescription": "Tall burnished black floor mirror for the Leandro collection.",
+    "description": "From the 2026 Coaster Supplement Leandro bedroom collection. Coordinating floor mirror. Dimensions: 36.00 in W x 1.75 in D x 76.00 in H.",
+    "priceCents": 49900,
+    "sku": "222498",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood, mirror",
+    "color": "Burnished Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "bedroom",
+      "mirror",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222498/222498_01xHD.jpg",
+        "altText": "Leandro Floor Mirror view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222498/222498_02xHD.jpg",
+        "altText": "Leandro Floor Mirror view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222498/222498_03xHD.jpg",
+        "altText": "Leandro Floor Mirror view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222498/222498_04xHD.jpg",
+        "altText": "Leandro Floor Mirror view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222498/222498_05xHD.jpg",
+        "altText": "Leandro Floor Mirror view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222498/222498_06xHD.jpg",
+        "altText": "Leandro Floor Mirror view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222498/222498_07xHD.jpg",
+        "altText": "Leandro Floor Mirror view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222498/222498_08xHD.jpg",
+        "altText": "Leandro Floor Mirror view 8"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Dining Table",
+    "slug": "leandro-dining-table-115391",
+    "category": "Dining Room",
+    "shortDescription": "Extending burnished black dining table with an extra-thick rounded edge.",
+    "description": "From the 2026 Coaster Supplement Leandro dining collection. Oblong dining table with an 18 in extension leaf and metal equalizing cable glides. Dimensions: 77.75-95.75 in W x 43.75 in D x 29.50 in H.",
+    "priceCents": 139900,
+    "sku": "115391",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood",
+    "color": "Burnished Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "dining-room",
+      "dining-table",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_01xHD.jpg",
+        "altText": "Leandro Dining Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_02xHD.jpg",
+        "altText": "Leandro Dining Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_03xHD.jpg",
+        "altText": "Leandro Dining Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_04xHD.jpg",
+        "altText": "Leandro Dining Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_05xHD.jpg",
+        "altText": "Leandro Dining Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_06xHD.jpg",
+        "altText": "Leandro Dining Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_07xHD.jpg",
+        "altText": "Leandro Dining Table view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_08xHD.jpg",
+        "altText": "Leandro Dining Table view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_09xHD.jpg",
+        "altText": "Leandro Dining Table view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_10xHD.jpg",
+        "altText": "Leandro Dining Table view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_11xHD.jpg",
+        "altText": "Leandro Dining Table view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_12xHD.jpg",
+        "altText": "Leandro Dining Table view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_13xHD.jpg",
+        "altText": "Leandro Dining Table view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115391/115391_14xHD.jpg",
+        "altText": "Leandro Dining Table view 14"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Round Dining Table",
+    "slug": "leandro-round-dining-table-115390",
+    "category": "Dining Room",
+    "shortDescription": "Round burnished black dining table from the Leandro collection.",
+    "description": "From the 2026 Coaster Supplement Leandro dining collection. Round dining table in burnished black. Dimensions: 59.75 in diameter x 30.00 in H.",
+    "priceCents": 99900,
+    "sku": "115390",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood",
+    "color": "Burnished Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "dining-room",
+      "dining-table",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/115390/115390_01xHD.jpg",
+        "altText": "Leandro Round Dining Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115390/115390_02xHD.jpg",
+        "altText": "Leandro Round Dining Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115390/115390_03xHD.jpg",
+        "altText": "Leandro Round Dining Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115390/115390_04xHD.jpg",
+        "altText": "Leandro Round Dining Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115390/115390_05xHD.jpg",
+        "altText": "Leandro Round Dining Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115390/115390_06xHD.jpg",
+        "altText": "Leandro Round Dining Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115390/115390_07xHD.jpg",
+        "altText": "Leandro Round Dining Table view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115390/115390_08xHD.jpg",
+        "altText": "Leandro Round Dining Table view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115390/115390_09xHD.jpg",
+        "altText": "Leandro Round Dining Table view 9"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Side Chair",
+    "slug": "leandro-side-chair-115392",
+    "category": "Dining Room",
+    "shortDescription": "Cream chenille side chair with a burnished black frame.",
+    "description": "From the 2026 Coaster Supplement Leandro dining collection. Ergonomic side chair in cream chenille with burnished black finish. Dimensions: 21.75 in W x 22.50 in D x 37.00 in H. Seat: 18.50 in D x 19.75 in H.",
+    "priceCents": 24900,
+    "sku": "115392",
+    "material": "Solid Asian hardwood, engineered wood, foam, fabric",
+    "color": "Burnished Black / Cream Chenille",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "dining-room",
+      "chair",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_01xHD.jpg",
+        "altText": "Leandro Side Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_02xHD.jpg",
+        "altText": "Leandro Side Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_03xHD.jpg",
+        "altText": "Leandro Side Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_04xHD.jpg",
+        "altText": "Leandro Side Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_05xHD.jpg",
+        "altText": "Leandro Side Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_06xHD.jpg",
+        "altText": "Leandro Side Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_07xHD.jpg",
+        "altText": "Leandro Side Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_08xHD.jpg",
+        "altText": "Leandro Side Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_09xHD.jpg",
+        "altText": "Leandro Side Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_10xHD.jpg",
+        "altText": "Leandro Side Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_11xHD.jpg",
+        "altText": "Leandro Side Chair view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_12xHD.jpg",
+        "altText": "Leandro Side Chair view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_13xHD.jpg",
+        "altText": "Leandro Side Chair view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_14xHD.jpg",
+        "altText": "Leandro Side Chair view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115392/115392_15xHD.jpg",
+        "altText": "Leandro Side Chair view 15"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Arm Chair",
+    "slug": "leandro-arm-chair-115393",
+    "category": "Dining Room",
+    "shortDescription": "Mid-century inspired cream chenille arm chair.",
+    "description": "From the 2026 Coaster Supplement Leandro dining collection. Swanky mid-century-inspired arm chair in cream chenille with burnished black finish. Dimensions: 23.50 in W x 23.50 in D x 32.00 in H. Seat: 21.25 in D x 19.75 in H.",
+    "priceCents": 32900,
+    "sku": "115393",
+    "material": "Solid Asian hardwood, engineered wood, foam, fabric",
+    "color": "Burnished Black / Cream Chenille",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "dining-room",
+      "chair",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_01xHD.jpg",
+        "altText": "Leandro Arm Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_02xHD.jpg",
+        "altText": "Leandro Arm Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_03xHD.jpg",
+        "altText": "Leandro Arm Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_04xHD.jpg",
+        "altText": "Leandro Arm Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_05xHD.jpg",
+        "altText": "Leandro Arm Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_06xHD.jpg",
+        "altText": "Leandro Arm Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_07xHD.jpg",
+        "altText": "Leandro Arm Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_08xHD.jpg",
+        "altText": "Leandro Arm Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_09xHD.jpg",
+        "altText": "Leandro Arm Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_10xHD.jpg",
+        "altText": "Leandro Arm Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_11xHD.jpg",
+        "altText": "Leandro Arm Chair view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_12xHD.jpg",
+        "altText": "Leandro Arm Chair view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_13xHD.jpg",
+        "altText": "Leandro Arm Chair view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_14xHD.jpg",
+        "altText": "Leandro Arm Chair view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115393/115393_15xHD.jpg",
+        "altText": "Leandro Arm Chair view 15"
+      }
+    ]
+  },
+  {
+    "name": "Leandro Sideboard",
+    "slug": "leandro-sideboard-115395",
+    "category": "Dining Room",
+    "shortDescription": "Burnished black sideboard with adjustable storage.",
+    "description": "From the 2026 Coaster Supplement Leandro dining collection. Sideboard with soft-closing drawer glides, black felt-lined top drawers, tinted drawer boxes, English dovetail construction, and three adjustable shelves. Dimensions: 64.00 in W x 19.00 in D x 36.00 in H.",
+    "priceCents": 119900,
+    "sku": "115395",
+    "material": "Solid Asian hardwood, ash veneer, engineered wood",
+    "color": "Burnished Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "leandro",
+      "dining-room",
+      "sideboard",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_01xHD.jpg",
+        "altText": "Leandro Sideboard view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_02xHD.jpg",
+        "altText": "Leandro Sideboard view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_03xHD.jpg",
+        "altText": "Leandro Sideboard view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_04xHD.jpg",
+        "altText": "Leandro Sideboard view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_05xHD.jpg",
+        "altText": "Leandro Sideboard view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_06xHD.jpg",
+        "altText": "Leandro Sideboard view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_07xHD.jpg",
+        "altText": "Leandro Sideboard view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_08xHD.jpg",
+        "altText": "Leandro Sideboard view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_09xHD.jpg",
+        "altText": "Leandro Sideboard view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_10xHD.jpg",
+        "altText": "Leandro Sideboard view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_11xHD.jpg",
+        "altText": "Leandro Sideboard view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115395/115395_12xHD.jpg",
+        "altText": "Leandro Sideboard view 12"
+      }
+    ]
+  },
+  {
+    "name": "Solano Queen Canopy Bed",
+    "slug": "solano-queen-canopy-bed-222520q",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango queen canopy bed with coastal character.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. Queen canopy bed with stout solid wood posts, weathered mango finish, and beige fabric accents. Dimensions: 67.25 in W x 88.75 in D x 85.00 in H.",
+    "priceCents": 169900,
+    "sku": "222520Q",
+    "material": "Solid Mahogany, mango veneer, engineered wood, foam, fabric",
+    "color": "Weathered Mango / Beige Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "bed",
+      "canopy-bed",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_01xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_02xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_03xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_04xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_05xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_06xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_07xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_08xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_09xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_10xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_11xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_12xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_13xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520Q/222520Q_14xHD.jpg",
+        "altText": "Solano Queen Canopy Bed view 14"
+      }
+    ]
+  },
+  {
+    "name": "Solano Eastern King Canopy Bed",
+    "slug": "solano-eastern-king-canopy-bed-222520ke",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango eastern king canopy bed with coastal character.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. Eastern king canopy bed with stout solid wood posts, weathered mango finish, and beige fabric accents. Dimensions: 83.25 in W x 88.75 in D x 85.00 in H.",
+    "priceCents": 189900,
+    "sku": "222520KE",
+    "material": "Solid Mahogany, mango veneer, engineered wood, foam, fabric",
+    "color": "Weathered Mango / Beige Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "bed",
+      "canopy-bed",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_01xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_02xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_03xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_04xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_05xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_06xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_07xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_08xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_09xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_10xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_11xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_12xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_13xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KE/222520KE_14xHD.jpg",
+        "altText": "Solano Eastern King Canopy Bed view 14"
+      }
+    ]
+  },
+  {
+    "name": "Solano California King Canopy Bed",
+    "slug": "solano-california-king-canopy-bed-222520kw",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango California king canopy bed with coastal character.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. California king canopy bed with stout solid wood posts, weathered mango finish, and beige fabric accents. Dimensions: 83.25 in W x 88.75 in D x 85.00 in H.",
+    "priceCents": 194900,
+    "sku": "222520KW",
+    "material": "Solid Mahogany, mango veneer, engineered wood, foam, fabric",
+    "color": "Weathered Mango / Beige Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "bed",
+      "canopy-bed",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_01xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_02xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_03xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_04xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_05xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_06xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_07xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_08xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_09xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_10xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_11xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_12xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_13xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222520KW/222520KW_14xHD.jpg",
+        "altText": "Solano California King Canopy Bed view 14"
+      }
+    ]
+  },
+  {
+    "name": "Solano Queen Bed",
+    "slug": "solano-queen-bed-222521q",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango queen panel bed with beige fabric accents.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. Queen bed with weathered mango finish and beige fabric accents. Dimensions: 65.25 in W x 88.00 in D x 56.00 in H.",
+    "priceCents": 119900,
+    "sku": "222521Q",
+    "material": "Solid Mahogany, mango veneer, engineered wood, foam, fabric",
+    "color": "Weathered Mango / Beige Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "bed",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_01xHD.jpg",
+        "altText": "Solano Queen Bed view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_02xHD.jpg",
+        "altText": "Solano Queen Bed view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_03xHD.jpg",
+        "altText": "Solano Queen Bed view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_04xHD.jpg",
+        "altText": "Solano Queen Bed view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_05xHD.jpg",
+        "altText": "Solano Queen Bed view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_06xHD.jpg",
+        "altText": "Solano Queen Bed view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_07xHD.jpg",
+        "altText": "Solano Queen Bed view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_08xHD.jpg",
+        "altText": "Solano Queen Bed view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_09xHD.jpg",
+        "altText": "Solano Queen Bed view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_10xHD.jpg",
+        "altText": "Solano Queen Bed view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_11xHD.jpg",
+        "altText": "Solano Queen Bed view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_12xHD.jpg",
+        "altText": "Solano Queen Bed view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_13xHD.jpg",
+        "altText": "Solano Queen Bed view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521Q/222521Q_14xHD.jpg",
+        "altText": "Solano Queen Bed view 14"
+      }
+    ]
+  },
+  {
+    "name": "Solano Eastern King Bed",
+    "slug": "solano-eastern-king-bed-222521ke",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango eastern king panel bed with beige fabric accents.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. Eastern king bed with weathered mango finish and beige fabric accents. Dimensions: 81.00 in W x 88.00 in D x 56.00 in H.",
+    "priceCents": 139900,
+    "sku": "222521KE",
+    "material": "Solid Mahogany, mango veneer, engineered wood, foam, fabric",
+    "color": "Weathered Mango / Beige Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "bed",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_01xHD.jpg",
+        "altText": "Solano Eastern King Bed view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_02xHD.jpg",
+        "altText": "Solano Eastern King Bed view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_03xHD.jpg",
+        "altText": "Solano Eastern King Bed view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_04xHD.jpg",
+        "altText": "Solano Eastern King Bed view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_05xHD.jpg",
+        "altText": "Solano Eastern King Bed view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_06xHD.jpg",
+        "altText": "Solano Eastern King Bed view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_07xHD.jpg",
+        "altText": "Solano Eastern King Bed view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_08xHD.jpg",
+        "altText": "Solano Eastern King Bed view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_09xHD.jpg",
+        "altText": "Solano Eastern King Bed view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_10xHD.jpg",
+        "altText": "Solano Eastern King Bed view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_11xHD.jpg",
+        "altText": "Solano Eastern King Bed view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_12xHD.jpg",
+        "altText": "Solano Eastern King Bed view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_13xHD.jpg",
+        "altText": "Solano Eastern King Bed view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KE/222521KE_14xHD.jpg",
+        "altText": "Solano Eastern King Bed view 14"
+      }
+    ]
+  },
+  {
+    "name": "Solano California King Bed",
+    "slug": "solano-california-king-bed-222521kw",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango California king panel bed with beige fabric accents.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. California king bed with weathered mango finish and beige fabric accents. Dimensions: 81.00 in W x 92.00 in D x 56.00 in H.",
+    "priceCents": 144900,
+    "sku": "222521KW",
+    "material": "Solid Mahogany, mango veneer, engineered wood, foam, fabric",
+    "color": "Weathered Mango / Beige Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "bed",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_01xHD.jpg",
+        "altText": "Solano California King Bed view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_02xHD.jpg",
+        "altText": "Solano California King Bed view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_03xHD.jpg",
+        "altText": "Solano California King Bed view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_04xHD.jpg",
+        "altText": "Solano California King Bed view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_05xHD.jpg",
+        "altText": "Solano California King Bed view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_06xHD.jpg",
+        "altText": "Solano California King Bed view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_07xHD.jpg",
+        "altText": "Solano California King Bed view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_08xHD.jpg",
+        "altText": "Solano California King Bed view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_09xHD.jpg",
+        "altText": "Solano California King Bed view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_10xHD.jpg",
+        "altText": "Solano California King Bed view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_11xHD.jpg",
+        "altText": "Solano California King Bed view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_12xHD.jpg",
+        "altText": "Solano California King Bed view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222521KW/222521KW_13xHD.jpg",
+        "altText": "Solano California King Bed view 13"
+      }
+    ]
+  },
+  {
+    "name": "Solano Nightstand",
+    "slug": "solano-nightstand-222522",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango nightstand with charging ports.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. Nightstand with A/C USB ports, metal extension drawer glides, grey felt-lined top drawer, tinted drawer boxes, and English dovetail construction. Dimensions: 27.50 in W x 18.00 in D x 25.50 in H.",
+    "priceCents": 44900,
+    "sku": "222522",
+    "material": "Solid Mahogany, mango veneer, engineered wood",
+    "color": "Weathered Mango",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "nightstand",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_01xHD.jpg",
+        "altText": "Solano Nightstand view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_02xHD.jpg",
+        "altText": "Solano Nightstand view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_03xHD.jpg",
+        "altText": "Solano Nightstand view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_04xHD.jpg",
+        "altText": "Solano Nightstand view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_05xHD.jpg",
+        "altText": "Solano Nightstand view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_06xHD.jpg",
+        "altText": "Solano Nightstand view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_07xHD.jpg",
+        "altText": "Solano Nightstand view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_08xHD.jpg",
+        "altText": "Solano Nightstand view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_09xHD.jpg",
+        "altText": "Solano Nightstand view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_10xHD.jpg",
+        "altText": "Solano Nightstand view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_11xHD.jpg",
+        "altText": "Solano Nightstand view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_12xHD.jpg",
+        "altText": "Solano Nightstand view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_13xHD.jpg",
+        "altText": "Solano Nightstand view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_14xHD.jpg",
+        "altText": "Solano Nightstand view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222522/222522_15xHD.jpg",
+        "altText": "Solano Nightstand view 15"
+      }
+    ]
+  },
+  {
+    "name": "Solano Dresser",
+    "slug": "solano-dresser-222523",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango dresser with removable jewelry tray.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. Dresser with metal extension drawer glides, grey felt-lined top drawers, tinted drawer boxes, removable jewelry tray, and English dovetail construction. Dimensions: 70.00 in W x 20.00 in D x 39.50 in H.",
+    "priceCents": 129900,
+    "sku": "222523",
+    "material": "Solid Mahogany, mango veneer, engineered wood",
+    "color": "Weathered Mango",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "dresser",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_01xHD.jpg",
+        "altText": "Solano Dresser view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_02xHD.jpg",
+        "altText": "Solano Dresser view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_03xHD.jpg",
+        "altText": "Solano Dresser view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_05xHD.jpg",
+        "altText": "Solano Dresser view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_07xHD.jpg",
+        "altText": "Solano Dresser view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_08xHD.jpg",
+        "altText": "Solano Dresser view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_09xHD.jpg",
+        "altText": "Solano Dresser view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_10xHD.jpg",
+        "altText": "Solano Dresser view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_11xHD.jpg",
+        "altText": "Solano Dresser view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_12xHD.jpg",
+        "altText": "Solano Dresser view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_13xHD.jpg",
+        "altText": "Solano Dresser view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_14xHD.jpg",
+        "altText": "Solano Dresser view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_15xHD.jpg",
+        "altText": "Solano Dresser view 15"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222523/222523_16xHD.jpg",
+        "altText": "Solano Dresser view 16"
+      }
+    ]
+  },
+  {
+    "name": "Solano Dresser Mirror",
+    "slug": "solano-dresser-mirror-222524",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango dresser mirror for the Solano collection.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. Coordinating dresser mirror. Dimensions: 44.00 in W x 1.50 in D x 37.00 in H.",
+    "priceCents": 24900,
+    "sku": "222524",
+    "material": "Solid Mahogany, mango veneer, engineered wood, mirror",
+    "color": "Weathered Mango",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "mirror",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222524/222524_01xHD.jpg",
+        "altText": "Solano Dresser Mirror view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222524/222524_02xHD.jpg",
+        "altText": "Solano Dresser Mirror view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222524/222524_03xHD.jpg",
+        "altText": "Solano Dresser Mirror view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222524/222524_04xHD.jpg",
+        "altText": "Solano Dresser Mirror view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222524/222524_05xHD.jpg",
+        "altText": "Solano Dresser Mirror view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222524/222524_06xHD.jpg",
+        "altText": "Solano Dresser Mirror view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222524/222524_07xHD.jpg",
+        "altText": "Solano Dresser Mirror view 7"
+      }
+    ]
+  },
+  {
+    "name": "Solano Chest",
+    "slug": "solano-chest-222525",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango chest from the Solano bedroom collection.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. Chest in weathered mango finish. Dimensions: 38.00 in W x 20.00 in D x 51.75 in H.",
+    "priceCents": 99900,
+    "sku": "222525",
+    "material": "Solid Mahogany, mango veneer, engineered wood",
+    "color": "Weathered Mango",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "chest",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_01xHD.jpg",
+        "altText": "Solano Chest view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_02xHD.jpg",
+        "altText": "Solano Chest view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_03xHD.jpg",
+        "altText": "Solano Chest view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_04xHD.jpg",
+        "altText": "Solano Chest view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_05xHD.jpg",
+        "altText": "Solano Chest view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_06xHD.jpg",
+        "altText": "Solano Chest view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_07xHD.jpg",
+        "altText": "Solano Chest view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_08xHD.jpg",
+        "altText": "Solano Chest view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_09xHD.jpg",
+        "altText": "Solano Chest view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_10xHD.jpg",
+        "altText": "Solano Chest view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_11xHD.jpg",
+        "altText": "Solano Chest view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_12xHD.jpg",
+        "altText": "Solano Chest view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_13xHD.jpg",
+        "altText": "Solano Chest view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_14xHD.jpg",
+        "altText": "Solano Chest view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_15xHD.jpg",
+        "altText": "Solano Chest view 15"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222525/222525_16xHD.jpg",
+        "altText": "Solano Chest view 16"
+      }
+    ]
+  },
+  {
+    "name": "Solano Bench",
+    "slug": "solano-bench-222526",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango bench with beige fabric upholstery.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. Bench in weathered mango finish with beige fabric. Dimensions: 48.75 in W x 17.25 in D x 20.00 in H.",
+    "priceCents": 39900,
+    "sku": "222526",
+    "material": "Solid Mahogany, mango veneer, engineered wood, foam, fabric",
+    "color": "Weathered Mango / Beige Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "bench",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222526/222526_01xHD.jpg",
+        "altText": "Solano Bench view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222526/222526_02xHD.jpg",
+        "altText": "Solano Bench view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222526/222526_03xHD.jpg",
+        "altText": "Solano Bench view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222526/222526_04xHD.jpg",
+        "altText": "Solano Bench view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222526/222526_05xHD.jpg",
+        "altText": "Solano Bench view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222526/222526_06xHD.jpg",
+        "altText": "Solano Bench view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222526/222526_07xHD.jpg",
+        "altText": "Solano Bench view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222526/222526_08xHD.jpg",
+        "altText": "Solano Bench view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222526/222526_09xHD.jpg",
+        "altText": "Solano Bench view 9"
+      }
+    ]
+  },
+  {
+    "name": "Solano Vanity Table",
+    "slug": "solano-vanity-table-222527",
+    "category": "Bedroom",
+    "shortDescription": "Weathered mango vanity table from the Solano bedroom collection.",
+    "description": "From the 2026 Coaster Supplement Solano bedroom collection. Vanity table in weathered mango finish. Dimensions: 48.25 in W x 26.00 in D x 31.00 in H.",
+    "priceCents": 69900,
+    "sku": "222527",
+    "material": "Solid Mahogany, mango veneer, engineered wood",
+    "color": "Weathered Mango",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "bedroom",
+      "vanity",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_01xHD.jpg",
+        "altText": "Solano Vanity Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_02xHD.jpg",
+        "altText": "Solano Vanity Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_03xHD.jpg",
+        "altText": "Solano Vanity Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_04xHD.jpg",
+        "altText": "Solano Vanity Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_05xHD.jpg",
+        "altText": "Solano Vanity Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_06xHD.jpg",
+        "altText": "Solano Vanity Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_07xHD.jpg",
+        "altText": "Solano Vanity Table view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_08xHD.jpg",
+        "altText": "Solano Vanity Table view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_09xHD.jpg",
+        "altText": "Solano Vanity Table view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_10xHD.jpg",
+        "altText": "Solano Vanity Table view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_11xHD.jpg",
+        "altText": "Solano Vanity Table view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_13xHD.jpg",
+        "altText": "Solano Vanity Table view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/222527/222527_14xHD.jpg",
+        "altText": "Solano Vanity Table view 14"
+      }
+    ]
+  },
+  {
+    "name": "Solano Dining Table",
+    "slug": "solano-dining-table-115501",
+    "category": "Dining Room",
+    "shortDescription": "Weathered mango dining table with a removable extension leaf.",
+    "description": "From the 2026 Coaster Supplement Solano collection. Dining table with a 16.25 in removable extension leaf, equalizing cable table glides, and brass plated table lock. Dimensions: 74.00-90.25 in W x 40.00 in D x 30.00 in H.",
+    "priceCents": 129900,
+    "sku": "115501",
+    "material": "Solid Mahogany, mango veneer, engineered wood",
+    "color": "Weathered Mango",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "dining-room",
+      "dining-table",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_01xHD.jpg",
+        "altText": "Solano Dining Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_02xHD.jpg",
+        "altText": "Solano Dining Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_03xHD.jpg",
+        "altText": "Solano Dining Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_04xHD.jpg",
+        "altText": "Solano Dining Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_05xHD.jpg",
+        "altText": "Solano Dining Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_06xHD.jpg",
+        "altText": "Solano Dining Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_07xHD.jpg",
+        "altText": "Solano Dining Table view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_08xHD.jpg",
+        "altText": "Solano Dining Table view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_09xHD.jpg",
+        "altText": "Solano Dining Table view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_10xHD.jpg",
+        "altText": "Solano Dining Table view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_11xHD.jpg",
+        "altText": "Solano Dining Table view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115501/115501_12xHD.jpg",
+        "altText": "Solano Dining Table view 12"
+      }
+    ]
+  },
+  {
+    "name": "Solano Side Chair",
+    "slug": "solano-side-chair-115502",
+    "category": "Dining Room",
+    "shortDescription": "Weathered mango side chair with beige fabric upholstery.",
+    "description": "From the 2026 Coaster Supplement Solano collection. Curved-back upholstered side chair from the Solano dining collection. Seat dimensions: 17.50 in D x 19.50 in H. Dimensions: 20.50 in W x 24.00 in D x 35.25 in H.",
+    "priceCents": 27900,
+    "sku": "115502",
+    "material": "Solid Mahogany, engineered wood, foam, fabric",
+    "color": "Weathered Mango / Beige Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "dining-room",
+      "side-chair",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_01xHD.jpg",
+        "altText": "Solano Side Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_02xHD.jpg",
+        "altText": "Solano Side Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_03xHD.jpg",
+        "altText": "Solano Side Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_04xHD.jpg",
+        "altText": "Solano Side Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_05xHD.jpg",
+        "altText": "Solano Side Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_06xHD.jpg",
+        "altText": "Solano Side Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_07xHD.jpg",
+        "altText": "Solano Side Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_08xHD.jpg",
+        "altText": "Solano Side Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_09xHD.jpg",
+        "altText": "Solano Side Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_10xHD.jpg",
+        "altText": "Solano Side Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_11xHD.jpg",
+        "altText": "Solano Side Chair view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_12xHD.jpg",
+        "altText": "Solano Side Chair view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_13xHD.jpg",
+        "altText": "Solano Side Chair view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115502/115502_14xHD.jpg",
+        "altText": "Solano Side Chair view 14"
+      }
+    ]
+  },
+  {
+    "name": "Solano Sideboard",
+    "slug": "solano-sideboard-115505",
+    "category": "Dining Room",
+    "shortDescription": "Weathered mango sideboard with sliding doors and wire management.",
+    "description": "From the 2026 Coaster Supplement Solano collection. Sideboard with sliding doors, wire management access, and two adjustable shelves. Dimensions: 64.00 in W x 18.00 in D x 34.75 in H.",
+    "priceCents": 119900,
+    "sku": "115505",
+    "material": "Solid Mahogany, mango veneer, engineered wood, tempered glass",
+    "color": "Weathered Mango",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "solano",
+      "dining-room",
+      "sideboard",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_01xHD.jpg",
+        "altText": "Solano Sideboard view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_02xHD.jpg",
+        "altText": "Solano Sideboard view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_03xHD.jpg",
+        "altText": "Solano Sideboard view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_04xHD.jpg",
+        "altText": "Solano Sideboard view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_05xHD.jpg",
+        "altText": "Solano Sideboard view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_06xHD.jpg",
+        "altText": "Solano Sideboard view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_07xHD.jpg",
+        "altText": "Solano Sideboard view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_08xHD.jpg",
+        "altText": "Solano Sideboard view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_09xHD.jpg",
+        "altText": "Solano Sideboard view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_10xHD.jpg",
+        "altText": "Solano Sideboard view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_11xHD.jpg",
+        "altText": "Solano Sideboard view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_12xHD.jpg",
+        "altText": "Solano Sideboard view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_13xHD.jpg",
+        "altText": "Solano Sideboard view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_14xHD.jpg",
+        "altText": "Solano Sideboard view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/115505/115505_15xHD.jpg",
+        "altText": "Solano Sideboard view 15"
+      }
+    ]
+  },
+  {
+    "name": "Twyla Round Dining Table",
+    "slug": "twyla-round-dining-table-109230",
+    "category": "Dining Room",
+    "shortDescription": "Dark cocoa round dining table with a sculpted pedestal base.",
+    "description": "From the 2026 Coaster Supplement Twyla collection. Round table with a sculpted pedestal base designed for a refined transitional dining room. Dimensions: 60.00 in diameter x 30.25 in H.",
+    "priceCents": 99900,
+    "sku": "109230",
+    "material": "Asian hardwood, veneer, engineered wood, polyresin",
+    "color": "Dark Cocoa",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "twyla",
+      "dining-room",
+      "dining-table",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/109230/109230_01xHD.jpg",
+        "altText": "Twyla Round Dining Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109230/109230_02xHD.jpg",
+        "altText": "Twyla Round Dining Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109230/109230_03xHD.jpg",
+        "altText": "Twyla Round Dining Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109230/109230_04xHD.jpg",
+        "altText": "Twyla Round Dining Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109230/109230_05xHD.jpg",
+        "altText": "Twyla Round Dining Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109230/109230_06xHD.jpg",
+        "altText": "Twyla Round Dining Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109230/109230_07xHD.jpg",
+        "altText": "Twyla Round Dining Table view 7"
+      }
+    ]
+  },
+  {
+    "name": "Hartville Round Dining Table",
+    "slug": "hartville-round-dining-table-109460",
+    "category": "Dining Room",
+    "shortDescription": "Natural light brown white oak dining table with a pedestal base.",
+    "description": "From the 2026 Coaster Supplement Hartville collection. Round pedestal dining table with white oak veneer, sized to seat up to six. Dimensions: 60.00 in diameter x 30.00 in H.",
+    "priceCents": 89900,
+    "sku": "109460",
+    "material": "Asian hardwood, white oak veneer, engineered wood",
+    "color": "Natural Light Brown",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "hartville",
+      "dining-room",
+      "dining-table",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/109460/109460_01xHD.jpg",
+        "altText": "Hartville Round Dining Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109460/109460_02xHD.jpg",
+        "altText": "Hartville Round Dining Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109460/109460_03xHD.jpg",
+        "altText": "Hartville Round Dining Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109460/109460_04xHD.jpg",
+        "altText": "Hartville Round Dining Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109460/109460_05xHD.jpg",
+        "altText": "Hartville Round Dining Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109460/109460_06xHD.jpg",
+        "altText": "Hartville Round Dining Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109460/109460_07xHD.jpg",
+        "altText": "Hartville Round Dining Table view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109460/109460_08xHD.jpg",
+        "altText": "Hartville Round Dining Table view 8"
+      }
+    ]
+  },
+  {
+    "name": "Hartville Side Chair",
+    "slug": "hartville-side-chair-109462",
+    "category": "Dining Room",
+    "shortDescription": "Slat-back dining chair with a light tan upholstered seat.",
+    "description": "From the 2026 Coaster Supplement Hartville collection. Side chair with a slat back and upholstered seat. Seat dimensions: 17.75 in D x 20.00 in H. Dimensions: 20.00 in W x 22.75 in D x 39.00 in H.",
+    "priceCents": 24900,
+    "sku": "109462",
+    "material": "Asian hardwood, engineered wood, foam, fabric",
+    "color": "Natural Light Brown / Light Tan Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "hartville",
+      "dining-room",
+      "side-chair",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_01xHD.jpg",
+        "altText": "Hartville Side Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_02xHD.jpg",
+        "altText": "Hartville Side Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_03xHD.jpg",
+        "altText": "Hartville Side Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_04xHD.jpg",
+        "altText": "Hartville Side Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_05xHD.jpg",
+        "altText": "Hartville Side Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_06xHD.jpg",
+        "altText": "Hartville Side Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_07xHD.jpg",
+        "altText": "Hartville Side Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_08xHD.jpg",
+        "altText": "Hartville Side Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_09xHD.jpg",
+        "altText": "Hartville Side Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_10xHD.jpg",
+        "altText": "Hartville Side Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_11xHD.jpg",
+        "altText": "Hartville Side Chair view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_12xHD.jpg",
+        "altText": "Hartville Side Chair view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/109462/109462_13xHD.jpg",
+        "altText": "Hartville Side Chair view 13"
+      }
+    ]
+  },
+  {
+    "name": "Franklin Round Dining Table",
+    "slug": "franklin-round-dining-table-193820",
+    "category": "Dining Room",
+    "shortDescription": "Faux grey marble dining table with a durable SMART TOP surface.",
+    "description": "From the 2026 Coaster Supplement Franklin collection. Round dining table with a textured high-pressure engineered laminate top designed to resist stains, UV light, scratches, and impact. Dimensions: 59.00 in diameter x 29.50 in H.",
+    "priceCents": 99900,
+    "sku": "193820",
+    "material": "Solid Asian hardwood, engineered wood, high pressure engineered laminate, paper veneer",
+    "color": "Faux Grey Marble / Dark Brown",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "franklin",
+      "dining-room",
+      "dining-table",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/193820/193820_01xHD.jpg",
+        "altText": "Franklin Round Dining Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193820/193820_02xHD.jpg",
+        "altText": "Franklin Round Dining Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193820/193820_03xHD.jpg",
+        "altText": "Franklin Round Dining Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193820/193820_04xHD.jpg",
+        "altText": "Franklin Round Dining Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193820/193820_05xHD.jpg",
+        "altText": "Franklin Round Dining Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193820/193820_06xHD.jpg",
+        "altText": "Franklin Round Dining Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193820/193820_07xHD.jpg",
+        "altText": "Franklin Round Dining Table view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193820/193820_08xHD.jpg",
+        "altText": "Franklin Round Dining Table view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193820/193820_09xHD.jpg",
+        "altText": "Franklin Round Dining Table view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193820/193820_10xHD.jpg",
+        "altText": "Franklin Round Dining Table view 10"
+      }
+    ]
+  },
+  {
+    "name": "Franklin Side Chair",
+    "slug": "franklin-side-chair-193822",
+    "category": "Dining Room",
+    "shortDescription": "Dark brown side chair with quilted grey tweed upholstery.",
+    "description": "From the 2026 Coaster Supplement Franklin collection. Dining side chair with quilted grey tweed upholstery. Seat dimensions: 17.75 in D x 18.75 in H. Dimensions: 22.25 in W x 22.75 in D x 32.00 in H.",
+    "priceCents": 29900,
+    "sku": "193822",
+    "material": "Solid Asian hardwood, engineered wood, foam, fabric",
+    "color": "Dark Brown / Grey Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "franklin",
+      "dining-room",
+      "side-chair",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_02xHD.jpg",
+        "altText": "Franklin Side Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_03xHD.jpg",
+        "altText": "Franklin Side Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_04xHD.jpg",
+        "altText": "Franklin Side Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_05xHD.jpg",
+        "altText": "Franklin Side Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_06xHD.jpg",
+        "altText": "Franklin Side Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_07xHD.jpg",
+        "altText": "Franklin Side Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_08xHD.jpg",
+        "altText": "Franklin Side Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_09xHD.jpg",
+        "altText": "Franklin Side Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_10xHD.jpg",
+        "altText": "Franklin Side Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_11xHD.jpg",
+        "altText": "Franklin Side Chair view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_12xHD.jpg",
+        "altText": "Franklin Side Chair view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_13xHD.jpg",
+        "altText": "Franklin Side Chair view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_14xHD.jpg",
+        "altText": "Franklin Side Chair view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193822/193822_15xHD.jpg",
+        "altText": "Franklin Side Chair view 15"
+      }
+    ]
+  },
+  {
+    "name": "Croyden Dining Table",
+    "slug": "croyden-dining-table-193731",
+    "category": "Dining Room",
+    "shortDescription": "Mid-century dining table with a recessed sintered stone top.",
+    "description": "From the 2026 Coaster Supplement Croyden collection. Dining table with a recessed sintered stone top framed in solid wood for a mid-century modern look. Dimensions: 70.75 in W x 35.25 in D x 29.75 in H.",
+    "priceCents": 129900,
+    "sku": "193731",
+    "material": "Solid Asian hardwood, engineered hardwood, sintered stone",
+    "color": "White Sintered Stone / Weathered Natural",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "croyden",
+      "dining-room",
+      "dining-table",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_01xHD.jpg",
+        "altText": "Croyden Dining Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_02xHD.jpg",
+        "altText": "Croyden Dining Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_03xHD.jpg",
+        "altText": "Croyden Dining Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_04xHD.jpg",
+        "altText": "Croyden Dining Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_05xHD.jpg",
+        "altText": "Croyden Dining Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_06xHD.jpg",
+        "altText": "Croyden Dining Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_07xHD.jpg",
+        "altText": "Croyden Dining Table view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_08xHD.jpg",
+        "altText": "Croyden Dining Table view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_09xHD.jpg",
+        "altText": "Croyden Dining Table view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_10xHD.jpg",
+        "altText": "Croyden Dining Table view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_11xHD.jpg",
+        "altText": "Croyden Dining Table view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_12xHD.jpg",
+        "altText": "Croyden Dining Table view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_13xHD.jpg",
+        "altText": "Croyden Dining Table view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_14xHD.jpg",
+        "altText": "Croyden Dining Table view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_15xHD.jpg",
+        "altText": "Croyden Dining Table view 15"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193731/193731_16xHD.jpg",
+        "altText": "Croyden Dining Table view 16"
+      }
+    ]
+  },
+  {
+    "name": "Croyden Side Chair",
+    "slug": "croyden-side-chair-193732",
+    "category": "Dining Room",
+    "shortDescription": "Curved-back grey fabric dining chair.",
+    "description": "From the 2026 Coaster Supplement Croyden collection. Plush upholstered side chair with a curved back. Seat dimensions: 17.25 in D x 19.75 in H. Dimensions: 24.00 in W x 24.50 in D x 37.00 in H.",
+    "priceCents": 34900,
+    "sku": "193732",
+    "material": "Solid Asian hardwood, engineered wood, foam, fabric",
+    "color": "Weathered Natural / Grey Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "croyden",
+      "dining-room",
+      "side-chair",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_01xHD.jpg",
+        "altText": "Croyden Side Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_02xHD.jpg",
+        "altText": "Croyden Side Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_03xHD.jpg",
+        "altText": "Croyden Side Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_04xHD.jpg",
+        "altText": "Croyden Side Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_05xHD.jpg",
+        "altText": "Croyden Side Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_06xHD.jpg",
+        "altText": "Croyden Side Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_07xHD.jpg",
+        "altText": "Croyden Side Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_08xHD.jpg",
+        "altText": "Croyden Side Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_09xHD.jpg",
+        "altText": "Croyden Side Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_10xHD.jpg",
+        "altText": "Croyden Side Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_11xHD.jpg",
+        "altText": "Croyden Side Chair view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_12xHD.jpg",
+        "altText": "Croyden Side Chair view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193732/193732_13xHD.jpg",
+        "altText": "Croyden Side Chair view 13"
+      }
+    ]
+  },
+  {
+    "name": "Duncan Dining Table",
+    "slug": "duncan-dining-table-193651",
+    "category": "Dining Room",
+    "shortDescription": "Washed oak trestle dining table with stout rounded posts.",
+    "description": "From the 2026 Coaster Supplement Duncan collection. Rustic modern trestle table with a white oak veneered top and solid wood frame. Dimensions: 70.75 in W x 39.25 in D x 30.00 in H.",
+    "priceCents": 109900,
+    "sku": "193651",
+    "material": "Solid Asian hardwood, engineered wood, white oak veneer",
+    "color": "Washed Oak",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "duncan",
+      "dining-room",
+      "dining-table",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/193651/193651_01xHD.jpg",
+        "altText": "Duncan Dining Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193651/193651_02xHD.jpg",
+        "altText": "Duncan Dining Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193651/193651_03xHD.jpg",
+        "altText": "Duncan Dining Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193651/193651_04xHD.jpg",
+        "altText": "Duncan Dining Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193651/193651_05xHD.jpg",
+        "altText": "Duncan Dining Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193651/193651_06xHD.jpg",
+        "altText": "Duncan Dining Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193651/193651_07xHD.jpg",
+        "altText": "Duncan Dining Table view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193651/193651_08xHD.jpg",
+        "altText": "Duncan Dining Table view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193651/193651_09xHD.jpg",
+        "altText": "Duncan Dining Table view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193651/193651_10xHD.jpg",
+        "altText": "Duncan Dining Table view 10"
+      }
+    ]
+  },
+  {
+    "name": "Duncan Side Chair",
+    "slug": "duncan-side-chair-193652",
+    "category": "Dining Room",
+    "shortDescription": "Washed oak ladder-back dining chair with grey fabric upholstery.",
+    "description": "From the 2026 Coaster Supplement Duncan collection. Ladder-back side chair with rounded posts and upholstered cushion. Seat dimensions: 18.25 in D x 19.00 in H. Dimensions: 20.25 in W x 22.50 in D x 35.75 in H.",
+    "priceCents": 27900,
+    "sku": "193652",
+    "material": "Solid Asian hardwood, engineered wood, foam, fabric",
+    "color": "Washed Oak / Grey Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "duncan",
+      "dining-room",
+      "side-chair",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_01xHD.jpg",
+        "altText": "Duncan Side Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_02xHD.jpg",
+        "altText": "Duncan Side Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_03xHD.jpg",
+        "altText": "Duncan Side Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_04xHD.jpg",
+        "altText": "Duncan Side Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_05xHD.jpg",
+        "altText": "Duncan Side Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_06xHD.jpg",
+        "altText": "Duncan Side Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_07xHD.jpg",
+        "altText": "Duncan Side Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_08xHD.jpg",
+        "altText": "Duncan Side Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_09xHD.jpg",
+        "altText": "Duncan Side Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_10xHD.jpg",
+        "altText": "Duncan Side Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_11xHD.jpg",
+        "altText": "Duncan Side Chair view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_12xHD.jpg",
+        "altText": "Duncan Side Chair view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/193652/193652_13xHD.jpg",
+        "altText": "Duncan Side Chair view 13"
+      }
+    ]
+  },
+  {
+    "name": "Cardova Dining Table",
+    "slug": "cardova-dining-table-192921",
+    "category": "Dining Room",
+    "shortDescription": "Vineyard oak dining table with two removable extension leaves.",
+    "description": "From the 2026 Coaster Supplement Cardova collection. Farmhouse dining table with breadboard ends and two 11.75 in removable extension leaves. Dimensions: 63.00-86.50 in W x 39.25 in D x 30.00 in H.",
+    "priceCents": 89900,
+    "sku": "192921",
+    "material": "Solid Asian hardwood, engineered wood, veneer with embossed oak grain",
+    "color": "Vineyard Oak",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "cardova",
+      "dining-room",
+      "dining-table",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_01xHD.jpg",
+        "altText": "Cardova Dining Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_02xHD.jpg",
+        "altText": "Cardova Dining Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_03xHD.jpg",
+        "altText": "Cardova Dining Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_04xHD.jpg",
+        "altText": "Cardova Dining Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_05xHD.jpg",
+        "altText": "Cardova Dining Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_06xHD.jpg",
+        "altText": "Cardova Dining Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_07xHD.jpg",
+        "altText": "Cardova Dining Table view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_08xHD.jpg",
+        "altText": "Cardova Dining Table view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_09xHD.jpg",
+        "altText": "Cardova Dining Table view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_10xHD.jpg",
+        "altText": "Cardova Dining Table view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_11xHD.jpg",
+        "altText": "Cardova Dining Table view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_12xHD.jpg",
+        "altText": "Cardova Dining Table view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_13xHD.jpg",
+        "altText": "Cardova Dining Table view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_14xHD.jpg",
+        "altText": "Cardova Dining Table view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_15xHD.jpg",
+        "altText": "Cardova Dining Table view 15"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192921/192921_16xHD.jpg",
+        "altText": "Cardova Dining Table view 16"
+      }
+    ]
+  },
+  {
+    "name": "Cardova Side Chair",
+    "slug": "cardova-side-chair-192922",
+    "category": "Dining Room",
+    "shortDescription": "Vineyard oak ladder-back dining chair.",
+    "description": "From the 2026 Coaster Supplement Cardova collection. Farmhouse ladder-back side chair from the Cardova dining collection. Seat dimensions: 17.25 in D x 18.50 in H. Dimensions: 18.50 in W x 21.00 in D x 42.25 in H.",
+    "priceCents": 22900,
+    "sku": "192922",
+    "material": "Solid Asian hardwood, engineered wood, veneer with embossed oak grain",
+    "color": "Vineyard Oak",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "cardova",
+      "dining-room",
+      "side-chair",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_01xHD.jpg",
+        "altText": "Cardova Side Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_02xHD.jpg",
+        "altText": "Cardova Side Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_03xHD.jpg",
+        "altText": "Cardova Side Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_04xHD.jpg",
+        "altText": "Cardova Side Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_05xHD.jpg",
+        "altText": "Cardova Side Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_06xHD.jpg",
+        "altText": "Cardova Side Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_07xHD.jpg",
+        "altText": "Cardova Side Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_08xHD.jpg",
+        "altText": "Cardova Side Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_09xHD.jpg",
+        "altText": "Cardova Side Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_10xHD.jpg",
+        "altText": "Cardova Side Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_11xHD.jpg",
+        "altText": "Cardova Side Chair view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192922/192922_12xHD.jpg",
+        "altText": "Cardova Side Chair view 12"
+      }
+    ]
+  },
+  {
+    "name": "Cardova Bench",
+    "slug": "cardova-bench-192923",
+    "category": "Dining Room",
+    "shortDescription": "Vineyard oak dining bench for farmhouse seating.",
+    "description": "From the 2026 Coaster Supplement Cardova collection. Dining bench from the Cardova farmhouse collection. Seat dimensions: 13.00 in D x 18.75 in H. Dimensions: 51.25 in W x 13.00 in D x 18.75 in H.",
+    "priceCents": 29900,
+    "sku": "192923",
+    "material": "Solid Asian hardwood, engineered wood, veneer with embossed oak grain",
+    "color": "Vineyard Oak",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "cardova",
+      "dining-room",
+      "bench",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/192923/192923_01xHD.jpg",
+        "altText": "Cardova Bench view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192923/192923_02xHD.jpg",
+        "altText": "Cardova Bench view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192923/192923_03xHD.jpg",
+        "altText": "Cardova Bench view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192923/192923_04xHD.jpg",
+        "altText": "Cardova Bench view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192923/192923_05xHD.jpg",
+        "altText": "Cardova Bench view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192923/192923_06xHD.jpg",
+        "altText": "Cardova Bench view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192923/192923_07xHD.jpg",
+        "altText": "Cardova Bench view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192923/192923_08xHD.jpg",
+        "altText": "Cardova Bench view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/192923/192923_09xHD.jpg",
+        "altText": "Cardova Bench view 9"
+      }
+    ]
+  },
+  {
+    "name": "Buxton Orange Sofa",
+    "slug": "buxton-orange-sofa-509501",
+    "category": "Living Room",
+    "shortDescription": "Low-profile sofa upholstered in orange top grain leather.",
+    "description": "From the 2026 Coaster Supplement Buxton collection. Modern leather sofa with wide track arms, sinuous spring deck, full foam seat construction, and attached seat and back cushions. Seat dimensions: 24.50 in D x 17.50 in H. Dimensions: 91.25 in W x 37.50 in D x 29.50 in H.",
+    "priceCents": 189900,
+    "sku": "509501",
+    "material": "Engineered wood, LVL, plastic legs, foam, leather",
+    "color": "Orange Top Grain Leather / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "buxton",
+      "living-room",
+      "sofa",
+      "placeholder-price",
+      "color-variant-group:buxton-sofa"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_01xHD.jpg",
+        "altText": "Buxton Orange Sofa view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_02xHD.jpg",
+        "altText": "Buxton Orange Sofa view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_03xHD.jpg",
+        "altText": "Buxton Orange Sofa view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_04xHD.jpg",
+        "altText": "Buxton Orange Sofa view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_05xHD.jpg",
+        "altText": "Buxton Orange Sofa view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_06xHD.jpg",
+        "altText": "Buxton Orange Sofa view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_07xHD.jpg",
+        "altText": "Buxton Orange Sofa view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_08xHD.jpg",
+        "altText": "Buxton Orange Sofa view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_09xHD.jpg",
+        "altText": "Buxton Orange Sofa view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_10xHD.jpg",
+        "altText": "Buxton Orange Sofa view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_11xHD.jpg",
+        "altText": "Buxton Orange Sofa view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_12xHD.jpg",
+        "altText": "Buxton Orange Sofa view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509501/509501_13xHD.jpg",
+        "altText": "Buxton Orange Sofa view 13"
+      }
+    ]
+  },
+  {
+    "name": "Buxton Orange Loveseat",
+    "slug": "buxton-orange-loveseat-509502",
+    "category": "Living Room",
+    "shortDescription": "Low-profile loveseat upholstered in orange top grain leather.",
+    "description": "From the 2026 Coaster Supplement Buxton collection. Modern leather loveseat with wide track arms, sinuous spring deck, full foam seat construction, and attached seat and back cushions. Seat dimensions: 24.50 in D x 17.50 in H. Dimensions: 73.50 in W x 37.50 in D x 29.50 in H.",
+    "priceCents": 159900,
+    "sku": "509502",
+    "material": "Engineered wood, LVL, plastic legs, foam, leather",
+    "color": "Orange Top Grain Leather / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "buxton",
+      "living-room",
+      "loveseat",
+      "placeholder-price",
+      "color-variant-group:buxton-loveseat"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_01xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_02xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_03xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_04xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_05xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_06xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_07xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_08xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_09xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_10xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_11xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_12xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509502/509502_13xHD.jpg",
+        "altText": "Buxton Orange Loveseat view 13"
+      }
+    ]
+  },
+  {
+    "name": "Buxton Graphite Sofa",
+    "slug": "buxton-graphite-sofa-509504",
+    "category": "Living Room",
+    "shortDescription": "Low-profile sofa upholstered in graphite top grain leather.",
+    "description": "From the 2026 Coaster Supplement Buxton collection. Modern leather sofa with wide track arms, sinuous spring deck, full foam seat construction, and attached seat and back cushions. Seat dimensions: 24.50 in D x 17.50 in H. Dimensions: 91.25 in W x 37.50 in D x 29.50 in H.",
+    "priceCents": 189900,
+    "sku": "509504",
+    "material": "Engineered wood, LVL, plastic legs, foam, leather",
+    "color": "Graphite Top Grain Leather / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "buxton",
+      "living-room",
+      "sofa",
+      "placeholder-price",
+      "color-variant-group:buxton-sofa"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_01xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_02xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_03xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_04xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_05xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_06xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_07xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_08xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_09xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_10xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_11xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_12xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509504/509504_13xHD.jpg",
+        "altText": "Buxton Graphite Sofa view 13"
+      }
+    ]
+  },
+  {
+    "name": "Buxton Graphite Loveseat",
+    "slug": "buxton-graphite-loveseat-509505",
+    "category": "Living Room",
+    "shortDescription": "Low-profile loveseat upholstered in graphite top grain leather.",
+    "description": "From the 2026 Coaster Supplement Buxton collection. Modern leather loveseat with wide track arms, sinuous spring deck, full foam seat construction, and attached seat and back cushions. Seat dimensions: 24.50 in D x 17.50 in H. Dimensions: 73.50 in W x 37.50 in D x 29.50 in H.",
+    "priceCents": 159900,
+    "sku": "509505",
+    "material": "Engineered wood, LVL, plastic legs, foam, leather",
+    "color": "Graphite Top Grain Leather / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "buxton",
+      "living-room",
+      "loveseat",
+      "placeholder-price",
+      "color-variant-group:buxton-loveseat"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_01xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_02xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_03xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_04xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_05xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_06xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_07xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_08xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_09xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_10xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_11xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_12xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509505/509505_13xHD.jpg",
+        "altText": "Buxton Graphite Loveseat view 13"
+      }
+    ]
+  },
+  {
+    "name": "Octavia Amber Sectional",
+    "slug": "octavia-amber-sectional-509340",
+    "category": "Living Room",
+    "shortDescription": "Amber fabric sectional with rounded arms and grid-tufted seating.",
+    "description": "From the 2026 Coaster Supplement Octavia collection. Mid-century inspired sectional with reversible back cushions, tight seats, and included accent pillows. Seat dimensions: 23.50 in D x 17.50 in H. Dimensions: 119.25 in W x 79.50 in D x 35.50 in H.",
+    "priceCents": 249900,
+    "sku": "509340",
+    "material": "Engineered wood, Asian hardwood feet, fabric, foam",
+    "color": "Amber Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "octavia",
+      "living-room",
+      "sectional",
+      "placeholder-price",
+      "color-variant-group:octavia-sectional"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_01xHD.jpg",
+        "altText": "Octavia Amber Sectional view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_02xHD.jpg",
+        "altText": "Octavia Amber Sectional view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_03xHD.jpg",
+        "altText": "Octavia Amber Sectional view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_04xHD.jpg",
+        "altText": "Octavia Amber Sectional view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_05xHD.jpg",
+        "altText": "Octavia Amber Sectional view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_06xHD.jpg",
+        "altText": "Octavia Amber Sectional view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_07xHD.jpg",
+        "altText": "Octavia Amber Sectional view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_08xHD.jpg",
+        "altText": "Octavia Amber Sectional view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_09xHD.jpg",
+        "altText": "Octavia Amber Sectional view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_10xHD.jpg",
+        "altText": "Octavia Amber Sectional view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509340/509340_11xHD.jpg",
+        "altText": "Octavia Amber Sectional view 11"
+      }
+    ]
+  },
+  {
+    "name": "Octavia Amber Accent Chair",
+    "slug": "octavia-amber-accent-chair-509343",
+    "category": "Living Room",
+    "shortDescription": "Amber fabric accent chair with rounded arms and plush seating.",
+    "description": "From the 2026 Coaster Supplement Octavia collection. Matching accent chair with reversible back cushion, tight seat, and one included accent pillow. Seat dimensions: 23.50 in D x 17.50 in H. Dimensions: 54.75 in W x 41.75 in D x 35.50 in H.",
+    "priceCents": 89900,
+    "sku": "509343",
+    "material": "Engineered wood, Asian hardwood feet, fabric, foam",
+    "color": "Amber Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "octavia",
+      "living-room",
+      "accent-chair",
+      "placeholder-price",
+      "color-variant-group:octavia-accent-chair"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509343/509343_01xHD.jpg",
+        "altText": "Octavia Amber Accent Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509343/509343_02xHD.jpg",
+        "altText": "Octavia Amber Accent Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509343/509343_03xHD.jpg",
+        "altText": "Octavia Amber Accent Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509343/509343_04xHD.jpg",
+        "altText": "Octavia Amber Accent Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509343/509343_05xHD.jpg",
+        "altText": "Octavia Amber Accent Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509343/509343_06xHD.jpg",
+        "altText": "Octavia Amber Accent Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509343/509343_07xHD.jpg",
+        "altText": "Octavia Amber Accent Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509343/509343_08xHD.jpg",
+        "altText": "Octavia Amber Accent Chair view 8"
+      }
+    ]
+  },
+  {
+    "name": "Octavia Amber Ottoman",
+    "slug": "octavia-amber-ottoman-509344",
+    "category": "Living Room",
+    "shortDescription": "Amber fabric ottoman for the Octavia living room collection.",
+    "description": "From the 2026 Coaster Supplement Octavia collection. Matching ottoman with plush grid-tufted styling for the Octavia collection. Dimensions: 39.00 in W x 30.50 in D x 17.50 in H.",
+    "priceCents": 49900,
+    "sku": "509344",
+    "material": "Engineered wood, Asian hardwood feet, fabric, foam",
+    "color": "Amber Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "octavia",
+      "living-room",
+      "ottoman",
+      "placeholder-price",
+      "color-variant-group:octavia-ottoman"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509344/509344_01xHD.jpg",
+        "altText": "Octavia Amber Ottoman view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509344/509344_02xHD.jpg",
+        "altText": "Octavia Amber Ottoman view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509344/509344_03xHD.jpg",
+        "altText": "Octavia Amber Ottoman view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509344/509344_04xHD.jpg",
+        "altText": "Octavia Amber Ottoman view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509344/509344_05xHD.jpg",
+        "altText": "Octavia Amber Ottoman view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509344/509344_06xHD.jpg",
+        "altText": "Octavia Amber Ottoman view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509344/509344_07xHD.jpg",
+        "altText": "Octavia Amber Ottoman view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509344/509344_08xHD.jpg",
+        "altText": "Octavia Amber Ottoman view 8"
+      }
+    ]
+  },
+  {
+    "name": "Octavia Orange Sectional",
+    "slug": "octavia-orange-sectional-509350",
+    "category": "Living Room",
+    "shortDescription": "Orange fabric sectional with rounded arms and grid-tufted seating.",
+    "description": "From the 2026 Coaster Supplement Octavia collection. Mid-century inspired sectional with reversible back cushions, tight seats, and included accent pillows. Seat dimensions: 91.75 in W x 23.50 in D x 17.50 in H. Dimensions: 119.25 in W x 79.50 in D x 35.50 in H.",
+    "priceCents": 249900,
+    "sku": "509350",
+    "material": "Engineered wood, Asian hardwood feet, fabric, foam",
+    "color": "Orange Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "octavia",
+      "living-room",
+      "sectional",
+      "placeholder-price",
+      "color-variant-group:octavia-sectional"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509350/509350_01xHD.jpg",
+        "altText": "Octavia Orange Sectional view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509350/509350_02xHD.jpg",
+        "altText": "Octavia Orange Sectional view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509350/509350_03xHD.jpg",
+        "altText": "Octavia Orange Sectional view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509350/509350_04xHD.jpg",
+        "altText": "Octavia Orange Sectional view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509350/509350_05xHD.jpg",
+        "altText": "Octavia Orange Sectional view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509350/509350_06xHD.jpg",
+        "altText": "Octavia Orange Sectional view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509350/509350_07xHD.jpg",
+        "altText": "Octavia Orange Sectional view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509350/509350_08xHD.jpg",
+        "altText": "Octavia Orange Sectional view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509350/509350_09xHD.jpg",
+        "altText": "Octavia Orange Sectional view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509350/509350_10xHD.jpg",
+        "altText": "Octavia Orange Sectional view 10"
+      }
+    ]
+  },
+  {
+    "name": "Octavia Orange Accent Chair",
+    "slug": "octavia-orange-accent-chair-509353",
+    "category": "Living Room",
+    "shortDescription": "Orange fabric accent chair with rounded arms and plush seating.",
+    "description": "From the 2026 Coaster Supplement Octavia collection. Matching accent chair with reversible back cushion, tight seat, and one included accent pillow. Seat dimensions: 24.50 in W x 23.50 in D x 17.50 in H. Dimensions: 54.75 in W x 41.75 in D x 35.50 in H.",
+    "priceCents": 89900,
+    "sku": "509353",
+    "material": "Engineered wood, Asian hardwood feet, fabric, foam",
+    "color": "Orange Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "octavia",
+      "living-room",
+      "accent-chair",
+      "placeholder-price",
+      "color-variant-group:octavia-accent-chair"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509353/509353_01xHD.jpg",
+        "altText": "Octavia Orange Accent Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509353/509353_02xHD.jpg",
+        "altText": "Octavia Orange Accent Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509353/509353_03xHD.jpg",
+        "altText": "Octavia Orange Accent Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509353/509353_04xHD.jpg",
+        "altText": "Octavia Orange Accent Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509353/509353_05xHD.jpg",
+        "altText": "Octavia Orange Accent Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509353/509353_06xHD.jpg",
+        "altText": "Octavia Orange Accent Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509353/509353_07xHD.jpg",
+        "altText": "Octavia Orange Accent Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509353/509353_08xHD.jpg",
+        "altText": "Octavia Orange Accent Chair view 8"
+      }
+    ]
+  },
+  {
+    "name": "Octavia Orange Ottoman",
+    "slug": "octavia-orange-ottoman-509354",
+    "category": "Living Room",
+    "shortDescription": "Orange fabric ottoman for the Octavia living room collection.",
+    "description": "From the 2026 Coaster Supplement Octavia collection. Matching ottoman with plush grid-tufted styling for the Octavia collection. Dimensions: 39.00 in W x 30.50 in D x 17.50 in H.",
+    "priceCents": 49900,
+    "sku": "509354",
+    "material": "Engineered wood, Asian hardwood feet, fabric, foam",
+    "color": "Orange Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "octavia",
+      "living-room",
+      "ottoman",
+      "placeholder-price",
+      "color-variant-group:octavia-ottoman"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509354/509354_01xHD.jpg",
+        "altText": "Octavia Orange Ottoman view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509354/509354_02xHD.jpg",
+        "altText": "Octavia Orange Ottoman view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509354/509354_03xHD.jpg",
+        "altText": "Octavia Orange Ottoman view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509354/509354_04xHD.jpg",
+        "altText": "Octavia Orange Ottoman view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509354/509354_05xHD.jpg",
+        "altText": "Octavia Orange Ottoman view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509354/509354_06xHD.jpg",
+        "altText": "Octavia Orange Ottoman view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509354/509354_07xHD.jpg",
+        "altText": "Octavia Orange Ottoman view 7"
+      }
+    ]
+  },
+  {
+    "name": "Octavia Black Sofa Chaise Sectional",
+    "slug": "octavia-amber-sofa-chaise-sectional-511061",
+    "category": "Living Room",
+    "shortDescription": "Black fabric sofa chaise sectional with reversible cushions.",
+    "description": "From the 2026 Coaster Supplement Octavia collection. Sectional with sinuous spring deck, pocket coil springs, reversible back cushions, tight seats, and included accent pillows. Seat dimensions: 23.50 in D x 17.50 in H. Dimensions: 119.25 in W x 79.50 in D x 35.50 in H.",
+    "priceCents": 249900,
+    "sku": "511061",
+    "material": "Engineered wood, Asian hardwood feet, fabric, foam",
+    "color": "Black Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "octavia",
+      "living-room",
+      "sectional",
+      "placeholder-price",
+      "color-variant-group:octavia-sectional"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/511061/511061_01xHD.jpg",
+        "altText": "Octavia Black Sofa Chaise Sectional view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511061/511061_02xHD.jpg",
+        "altText": "Octavia Black Sofa Chaise Sectional view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511061/511061_03xHD.jpg",
+        "altText": "Octavia Black Sofa Chaise Sectional view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511061/511061_04xHD.jpg",
+        "altText": "Octavia Black Sofa Chaise Sectional view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511061/511061_05xHD.jpg",
+        "altText": "Octavia Black Sofa Chaise Sectional view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511061/511061_06xHD.jpg",
+        "altText": "Octavia Black Sofa Chaise Sectional view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511061/511061_07xHD.jpg",
+        "altText": "Octavia Black Sofa Chaise Sectional view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511061/511061_08xHD.jpg",
+        "altText": "Octavia Black Sofa Chaise Sectional view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511061/511061_09xHD.jpg",
+        "altText": "Octavia Black Sofa Chaise Sectional view 9"
+      }
+    ]
+  },
+  {
+    "name": "Octavia Black Chair",
+    "slug": "octavia-amber-chair-511063",
+    "category": "Living Room",
+    "shortDescription": "Black fabric chair with a wide rounded profile.",
+    "description": "From the 2026 Coaster Supplement Octavia collection. Accent chair with sinuous spring deck, pocket coil springs, reversible back cushion, tight seat, and included accent pillow. Seat dimensions: 23.50 in D x 17.50 in H. Dimensions: 54.75 in W x 41.75 in D x 35.50 in H.",
+    "priceCents": 89900,
+    "sku": "511063",
+    "material": "Engineered wood, Asian hardwood feet, fabric, foam",
+    "color": "Black Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "octavia",
+      "living-room",
+      "accent-chair",
+      "placeholder-price",
+      "color-variant-group:octavia-accent-chair"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/511063/511063_01xHD.jpg",
+        "altText": "Octavia Black Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511063/511063_02xHD.jpg",
+        "altText": "Octavia Black Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511063/511063_03xHD.jpg",
+        "altText": "Octavia Black Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511063/511063_04xHD.jpg",
+        "altText": "Octavia Black Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511063/511063_05xHD.jpg",
+        "altText": "Octavia Black Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511063/511063_06xHD.jpg",
+        "altText": "Octavia Black Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511063/511063_07xHD.jpg",
+        "altText": "Octavia Black Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511063/511063_08xHD.jpg",
+        "altText": "Octavia Black Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511063/511063_09xHD.jpg",
+        "altText": "Octavia Black Chair view 9"
+      }
+    ]
+  },
+  {
+    "name": "Octavia Black Ottoman",
+    "slug": "octavia-amber-ottoman-511064",
+    "category": "Living Room",
+    "shortDescription": "Black fabric ottoman for the sofa chaise Octavia collection.",
+    "description": "From the 2026 Coaster Supplement Octavia collection. Matching ottoman with plush grid-tufted styling for the Octavia sofa chaise collection. Dimensions: 39.00 in W x 30.50 in D x 17.50 in H.",
+    "priceCents": 49900,
+    "sku": "511064",
+    "material": "Engineered wood, Asian hardwood feet, fabric, foam",
+    "color": "Black Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "octavia",
+      "living-room",
+      "ottoman",
+      "placeholder-price",
+      "color-variant-group:octavia-ottoman"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/511064/511064_01xHD.jpg",
+        "altText": "Octavia Black Ottoman view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511064/511064_02xHD.jpg",
+        "altText": "Octavia Black Ottoman view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511064/511064_03xHD.jpg",
+        "altText": "Octavia Black Ottoman view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511064/511064_04xHD.jpg",
+        "altText": "Octavia Black Ottoman view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511064/511064_05xHD.jpg",
+        "altText": "Octavia Black Ottoman view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511064/511064_06xHD.jpg",
+        "altText": "Octavia Black Ottoman view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511064/511064_07xHD.jpg",
+        "altText": "Octavia Black Ottoman view 7"
+      }
+    ]
+  },
+  {
+    "name": "Devonshire Sleeper Sectional",
+    "slug": "devonshire-sleeper-sectional-511049",
+    "category": "Living Room",
+    "shortDescription": "Black corduroy sleeper sectional with a pop-up bed and storage chaise.",
+    "description": "From the 2026 Coaster Supplement Devonshire collection. Corduroy sleeper sectional with removable back cushions, attached seat cushions, a pop-up sleeper, hidden storage chaise, smooth-rolling casters, and three accent pillows. Seat dimensions: 98.50 in D x 22.00 in H. Dimensions: 122.00 in W x 96.75 in D x 39.25 in H.",
+    "priceCents": 199900,
+    "sku": "511049",
+    "material": "Engineered wood, plastic feet, fabric, foam",
+    "color": "Black Corduroy / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "devonshire",
+      "living-room",
+      "sleeper-sectional",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_01xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_02xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_03xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_04xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_05xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_06xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_07xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_08xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_09xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_10xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_11xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_12xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_13xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_14xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_15xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 15"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_16xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 16"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_17xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 17"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/511049/511049_18xHD.jpg",
+        "altText": "Devonshire Sleeper Sectional view 18"
+      }
+    ]
+  },
+  {
+    "name": "Pastrana Sleeper Sectional",
+    "slug": "pastrana-sleeper-sectional-500348",
+    "category": "Living Room",
+    "shortDescription": "Camel fabric sleeper sectional with a pull-out bed and storage chaise.",
+    "description": "From the 2026 Coaster Supplement Pastrana collection. Modern sleeper sectional with deep seating, a hidden pull-out bed, lift-up chaise storage, vertical tufting, and wide track arms. Seat dimensions: 24.75 in D x 20.25 in H. Sleep surface: 101.50 in W x 49.50 in D. Dimensions: 109.50 in W x 64.50 in D x 37.00 in H.",
+    "priceCents": 169900,
+    "sku": "500348",
+    "material": "Engineered wood, metal, plastic feet, fabric, foam",
+    "color": "Camel Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "pastrana",
+      "living-room",
+      "sleeper-sectional",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_01xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_02xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_03xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_04xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_05xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_06xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_07xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_08xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_09xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_10xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_11xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_12xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_13xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_14xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500348/500348_15xHD.jpg",
+        "altText": "Pastrana Sleeper Sectional view 15"
+      }
+    ]
+  },
+  {
+    "name": "Roanne Sleeper Sectional",
+    "slug": "roanne-sleeper-sectional-500347",
+    "category": "Living Room",
+    "shortDescription": "Grey fabric sleeper sectional with nested stools and storage chaise.",
+    "description": "From the 2026 Coaster Supplement Roanne collection. Compact sleeper sectional with a pull-out sleeper, lift-up storage chaise, tufted cushions, and two stools that nest into the armrest. Seat dimensions: 21.25 in D x 16.50 in H. Sleep surface: 71.00 in W x 47.25 in D. Dimensions: 97.75 in W x 65.75 in D x 36.50 in H.",
+    "priceCents": 149900,
+    "sku": "500347",
+    "material": "Asian hardwood, engineered wood, metal, plastic feet, fabric, foam",
+    "color": "Grey Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "roanne",
+      "living-room",
+      "sleeper-sectional",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_01xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_02xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_03xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_04xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_05xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_06xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_07xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_08xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_09xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_10xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_11xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_12xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_13xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 13"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_14xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 14"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_15xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 15"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_16xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 16"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_17xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 17"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/500347/500347_18xHD.jpg",
+        "altText": "Roanne Sleeper Sectional view 18"
+      }
+    ]
+  },
+  {
+    "name": "Ashlyn Sofa",
+    "slug": "ashlyn-sofa-552091",
+    "category": "Living Room",
+    "shortDescription": "Sand boucle sofa with sculptural curves and cappuccino legs.",
+    "description": "From the 2026 Coaster Supplement Ashlyn collection. Transitional sofa with sloped track arms, reversible seat and back cushions, premium down-like fill, and included accent pillows. Seat dimensions: 25.00 in D x 21.00 in H. Dimensions: 89.50 in W x 40.00 in D x 37.00 in H.",
+    "priceCents": 129900,
+    "sku": "552091",
+    "material": "Engineered wood, pine, Asian hardwood feet, premium down-like fill, foam, fabric",
+    "color": "Sand Boucle / Cappuccino",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "ashlyn",
+      "living-room",
+      "sofa",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_01xHD.jpg",
+        "altText": "Ashlyn Sofa view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_02xHD.jpg",
+        "altText": "Ashlyn Sofa view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_03xHD.jpg",
+        "altText": "Ashlyn Sofa view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_04xHD.jpg",
+        "altText": "Ashlyn Sofa view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_05xHD.jpg",
+        "altText": "Ashlyn Sofa view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_06xHD.jpg",
+        "altText": "Ashlyn Sofa view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_07xHD.jpg",
+        "altText": "Ashlyn Sofa view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_08xHD.jpg",
+        "altText": "Ashlyn Sofa view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_09xHD.jpg",
+        "altText": "Ashlyn Sofa view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_10xHD.jpg",
+        "altText": "Ashlyn Sofa view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_11xHD.jpg",
+        "altText": "Ashlyn Sofa view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552091/552091_12xHD.jpg",
+        "altText": "Ashlyn Sofa view 12"
+      }
+    ]
+  },
+  {
+    "name": "Ashlyn Loveseat",
+    "slug": "ashlyn-loveseat-552092",
+    "category": "Living Room",
+    "shortDescription": "Sand boucle loveseat with sculptural curves and cappuccino legs.",
+    "description": "From the 2026 Coaster Supplement Ashlyn collection. Transitional loveseat with sloped track arms, reversible seat and back cushions, premium down-like fill, and included accent pillows. Seat dimensions: 25.00 in D x 21.00 in H. Dimensions: 65.00 in W x 40.00 in D x 37.00 in H.",
+    "priceCents": 99900,
+    "sku": "552092",
+    "material": "Engineered wood, pine, Asian hardwood feet, premium down-like fill, foam, fabric",
+    "color": "Sand Boucle / Cappuccino",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "ashlyn",
+      "living-room",
+      "loveseat",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_01xHD.jpg",
+        "altText": "Ashlyn Loveseat view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_02xHD.jpg",
+        "altText": "Ashlyn Loveseat view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_03xHD.jpg",
+        "altText": "Ashlyn Loveseat view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_04xHD.jpg",
+        "altText": "Ashlyn Loveseat view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_05xHD.jpg",
+        "altText": "Ashlyn Loveseat view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_06xHD.jpg",
+        "altText": "Ashlyn Loveseat view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_07xHD.jpg",
+        "altText": "Ashlyn Loveseat view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_08xHD.jpg",
+        "altText": "Ashlyn Loveseat view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_09xHD.jpg",
+        "altText": "Ashlyn Loveseat view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_10xHD.jpg",
+        "altText": "Ashlyn Loveseat view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_11xHD.jpg",
+        "altText": "Ashlyn Loveseat view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/552092/552092_12xHD.jpg",
+        "altText": "Ashlyn Loveseat view 12"
+      }
+    ]
+  },
+  {
+    "name": "Ashlyn Accent Chair",
+    "slug": "ashlyn-accent-chair-509893",
+    "category": "Living Room",
+    "shortDescription": "Sand boucle accent chair with cloud-like support.",
+    "description": "From the 2026 Coaster Supplement Ashlyn collection. Transitional accent chair with reversible seat and back cushions, premium down-like fill, and one included accent pillow. Seat dimensions: 25.00 in D x 21.00 in H. Dimensions: 41.00 in W x 40.00 in D x 37.00 in H.",
+    "priceCents": 69900,
+    "sku": "509893",
+    "material": "Engineered wood, pine, Asian hardwood feet, premium down-like fill, foam, fabric",
+    "color": "Sand Boucle / Cappuccino",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "ashlyn",
+      "living-room",
+      "accent-chair",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_01xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_02xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_03xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_04xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_05xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_06xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_07xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_08xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_09xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_10xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/509893/509893_11xHD.jpg",
+        "altText": "Ashlyn Accent Chair view 11"
+      }
+    ]
+  },
+  {
+    "name": "Jeanette Sofa",
+    "slug": "jeanette-sofa-508961",
+    "category": "Living Room",
+    "shortDescription": "Beige fabric sofa with sculptural upholstery and wood waistband.",
+    "description": "From the 2026 Coaster Supplement Jeanette collection. Modern eclectic sofa with attached seat and back cushions, feather blend accent pillows, a solid wood waistband, waterfall bench seat, and pocket coil support. Seat dimensions: 18.50 in D x 18.00 in H. Dimensions: 83.50 in W x 37.00 in D x 28.00 in H.",
+    "priceCents": 119900,
+    "sku": "508961",
+    "material": "Eucalyptus, engineered wood, Asian hardwood feet, premium down-like fill, fabric, foam",
+    "color": "Beige Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "jeanette",
+      "living-room",
+      "sofa",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_01xHD.jpg",
+        "altText": "Jeanette Sofa view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_02xHD.jpg",
+        "altText": "Jeanette Sofa view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_03xHD.jpg",
+        "altText": "Jeanette Sofa view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_04xHD.jpg",
+        "altText": "Jeanette Sofa view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_05xHD.jpg",
+        "altText": "Jeanette Sofa view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_06xHD.jpg",
+        "altText": "Jeanette Sofa view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_07xHD.jpg",
+        "altText": "Jeanette Sofa view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_08xHD.jpg",
+        "altText": "Jeanette Sofa view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_09xHD.jpg",
+        "altText": "Jeanette Sofa view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_10xHD.jpg",
+        "altText": "Jeanette Sofa view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_11xHD.jpg",
+        "altText": "Jeanette Sofa view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_12xHD.jpg",
+        "altText": "Jeanette Sofa view 12"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/508961/508961_13xHD.jpg",
+        "altText": "Jeanette Sofa view 13"
+      }
+    ]
+  },
+  {
+    "name": "Sorrel Ivory Swivel Chair",
+    "slug": "sorrel-ivory-swivel-chair-902541",
+    "category": "Accents",
+    "shortDescription": "Ivory corduroy swivel chair with softly sloped arms.",
+    "description": "From the 2026 Coaster Supplement Sorrel collection. Swivel accent chair with softly sloped arms, a tall backrest, smooth upholstery, and a black metal swivel base. Seat dimensions: 22.00 in D x 20.75 in H. Dimensions: 38.25 in W x 34.25 in D x 37.00 in H.",
+    "priceCents": 69900,
+    "sku": "902541",
+    "material": "Engineered wood, metal, fabric, foam",
+    "color": "Ivory Corduroy / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "sorrel",
+      "accents",
+      "swivel-chair",
+      "placeholder-price",
+      "color-variant-group:sorrel-swivel-chair"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_01xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_02xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_03xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_04xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_05xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_06xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_07xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_08xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_09xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_10xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902541/902541_11xHD.jpg",
+        "altText": "Sorrel Ivory Swivel Chair view 11"
+      }
+    ]
+  },
+  {
+    "name": "Sorrel Black Swivel Chair",
+    "slug": "sorrel-black-swivel-chair-902542",
+    "category": "Accents",
+    "shortDescription": "Black corduroy swivel chair with softly sloped arms.",
+    "description": "From the 2026 Coaster Supplement Sorrel collection. Swivel accent chair with softly sloped arms, a tall backrest, smooth upholstery, and a black metal swivel base. Seat dimensions: 22.00 in D x 20.75 in H. Dimensions: 38.25 in W x 34.25 in D x 37.00 in H.",
+    "priceCents": 69900,
+    "sku": "902542",
+    "material": "Engineered wood, metal, fabric, foam",
+    "color": "Black Corduroy / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "sorrel",
+      "accents",
+      "swivel-chair",
+      "placeholder-price",
+      "color-variant-group:sorrel-swivel-chair"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_01xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_02xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_03xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_04xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_05xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_06xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_07xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_08xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_09xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_10xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/902542/902542_11xHD.jpg",
+        "altText": "Sorrel Black Swivel Chair view 11"
+      }
+    ]
+  },
+  {
+    "name": "Comfy Latte Swivel Glider Chair",
+    "slug": "comfy-latte-swivel-glider-chair-903930",
+    "category": "Accents",
+    "shortDescription": "Latte fabric swivel glider chair with reclining comfort.",
+    "description": "From the 2026 Coaster Supplement Comfy collection. Swivel glider chair with trendy fabric, a 360-degree swivel base, gentle gliding, reclining capability, and plush support. Seat dimensions: 22.50 in D x 18.50 in H. Dimensions: 30.25 in W x 35.50 in D x 34.00 in H.",
+    "priceCents": 59900,
+    "sku": "903930",
+    "material": "Engineered wood, metal, fabric, foam",
+    "color": "Latte Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "comfy",
+      "accents",
+      "swivel-glider-chair",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_01xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_02xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_03xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_04xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_05xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_06xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_07xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_08xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_09xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_10xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903930/903930_11xHD.jpg",
+        "altText": "Comfy Latte Swivel Glider Chair view 11"
+      }
+    ]
+  },
+  {
+    "name": "Westhill Rocky Road Swivel Chair",
+    "slug": "westhill-rocky-road-swivel-chair-907538",
+    "category": "Accents",
+    "shortDescription": "Rocky road boucle swivel chair with a rounded open back.",
+    "description": "From the 2026 Coaster Supplement Westhill collection. Modern swivel accent chair with sculptural curves, tailored seating, warm textured boucle upholstery, and a hidden swivel base. Seat dimensions: 25.00 in D x 19.75 in H. Dimensions: 28.25 in W x 25.00 in D x 29.50 in H.",
+    "priceCents": 54900,
+    "sku": "907538",
+    "material": "Engineered wood, metal, fabric, foam",
+    "color": "Rocky Road Boucle",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "westhill",
+      "accents",
+      "swivel-chair",
+      "placeholder-price",
+      "color-variant-group:westhill-swivel-chair"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_01xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_02xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_03xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_04xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_05xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_06xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_07xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_08xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_09xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_10xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907538/907538_11xHD.jpg",
+        "altText": "Westhill Rocky Road Swivel Chair view 11"
+      }
+    ]
+  },
+  {
+    "name": "Westhill Berry Swivel Chair",
+    "slug": "westhill-berry-swivel-chair-907539",
+    "category": "Accents",
+    "shortDescription": "Berry boucle swivel chair with a rounded open back.",
+    "description": "From the 2026 Coaster Supplement Westhill collection. Modern swivel accent chair with sculptural curves, tailored seating, warm textured boucle upholstery, and a hidden swivel base. Seat dimensions: 25.00 in D x 19.75 in H. Dimensions: 28.25 in W x 25.00 in D x 29.50 in H.",
+    "priceCents": 54900,
+    "sku": "907539",
+    "material": "Engineered wood, metal, fabric, foam",
+    "color": "Berry Boucle",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "westhill",
+      "accents",
+      "swivel-chair",
+      "placeholder-price",
+      "color-variant-group:westhill-swivel-chair"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_01xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_02xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_03xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_04xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_05xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_06xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_07xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_08xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_09xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_10xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/907539/907539_11xHD.jpg",
+        "altText": "Westhill Berry Swivel Chair view 11"
+      }
+    ]
+  },
+  {
+    "name": "Mossbrook Anthracite Swivel Accent Chair",
+    "slug": "mossbrook-anthracite-swivel-accent-chair-903222",
+    "category": "Accents",
+    "shortDescription": "Anthracite swivel accent chair with a rounded barrel back.",
+    "description": "From the 2026 Coaster Supplement Mossbrook collection. Compact swivel accent chair with seamless upholstery, a sculpted barrel back, foam-padded seat, and a hidden swivel base. Seat dimensions: 21.75 in D x 19.25 in H. Dimensions: 29.25 in W x 29.25 in D x 31.50 in H.",
+    "priceCents": 54900,
+    "sku": "903222",
+    "material": "Engineered wood, metal, fabric, foam",
+    "color": "Anthracite Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "mossbrook",
+      "accents",
+      "swivel-accent-chair",
+      "placeholder-price",
+      "color-variant-group:mossbrook-swivel-chair"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_01xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_02xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_03xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_04xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_05xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_06xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_07xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_08xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_09xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_10xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903222/903222_11xHD.jpg",
+        "altText": "Mossbrook Anthracite Swivel Accent Chair view 11"
+      }
+    ]
+  },
+  {
+    "name": "Mossbrook Green Swivel Accent Chair",
+    "slug": "mossbrook-green-swivel-accent-chair-903223",
+    "category": "Accents",
+    "shortDescription": "Green swivel accent chair with a rounded barrel back.",
+    "description": "From the 2026 Coaster Supplement Mossbrook collection. Compact swivel accent chair with seamless upholstery, a sculpted barrel back, foam-padded seat, and a hidden swivel base. Seat dimensions: 21.75 in D x 19.25 in H. Dimensions: 29.25 in W x 29.25 in D x 31.50 in H.",
+    "priceCents": 54900,
+    "sku": "903223",
+    "material": "Engineered wood, metal, fabric, foam",
+    "color": "Green Fabric",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "mossbrook",
+      "accents",
+      "swivel-accent-chair",
+      "placeholder-price",
+      "color-variant-group:mossbrook-swivel-chair"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_01xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_02xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_03xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_04xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_05xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_06xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_07xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_08xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_09xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_10xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/903223/903223_11xHD.jpg",
+        "altText": "Mossbrook Green Swivel Accent Chair view 11"
+      }
+    ]
+  },
+  {
+    "name": "Latte Accent Bench",
+    "slug": "latte-accent-bench-915160",
+    "category": "Accents",
+    "shortDescription": "Latte fabric accent bench with a black base.",
+    "description": "From the 2026 Coaster Supplement Stylish Accents collection. Accent bench for adding stylish seating at the end of a bed, entryway, or living space. Dimensions: 51.75 in W x 19.00 in D x 18.25 in H.",
+    "priceCents": 34900,
+    "sku": "915160",
+    "material": "Asian hardwood, larch, fabric, foam",
+    "color": "Latte Fabric / Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "stylish-accents",
+      "accents",
+      "accent-bench",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/915160/915160_01xHD.jpg",
+        "altText": "Latte Accent Bench view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/915160/915160_02xHD.jpg",
+        "altText": "Latte Accent Bench view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/915160/915160_03xHD.jpg",
+        "altText": "Latte Accent Bench view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/915160/915160_04xHD.jpg",
+        "altText": "Latte Accent Bench view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/915160/915160_05xHD.jpg",
+        "altText": "Latte Accent Bench view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/915160/915160_06xHD.jpg",
+        "altText": "Latte Accent Bench view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/915160/915160_07xHD.jpg",
+        "altText": "Latte Accent Bench view 7"
+      }
+    ]
+  },
+  {
+    "name": "Black Side Table",
+    "slug": "black-side-table-930275",
+    "category": "Accents",
+    "shortDescription": "Compact black side table from the 2026 accent collection.",
+    "description": "From the 2026 Coaster Supplement Stylish Accents collection. Compact rectangular side table for accent seating areas and small-space styling. Dimensions: 15.75 in W x 11.50 in D x 23.50 in H.",
+    "priceCents": 19900,
+    "sku": "930275",
+    "material": "Engineered wood, melamine paper",
+    "color": "Black",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "stylish-accents",
+      "accents",
+      "side-table",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/930275/930275_01xHD.jpg",
+        "altText": "Black Side Table view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/930275/930275_02xHD.jpg",
+        "altText": "Black Side Table view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/930275/930275_03xHD.jpg",
+        "altText": "Black Side Table view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/930275/930275_04xHD.jpg",
+        "altText": "Black Side Table view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/930275/930275_05xHD.jpg",
+        "altText": "Black Side Table view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/930275/930275_06xHD.jpg",
+        "altText": "Black Side Table view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/930275/930275_07xHD.jpg",
+        "altText": "Black Side Table view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/930275/930275_08xHD.jpg",
+        "altText": "Black Side Table view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/930275/930275_09xHD.jpg",
+        "altText": "Black Side Table view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/930275/930275_10xHD.jpg",
+        "altText": "Black Side Table view 10"
+      }
+    ]
+  },
+  {
+    "name": "Tall Accent Cabinet",
+    "slug": "tall-accent-cabinet-950432",
+    "category": "Accents",
+    "shortDescription": "Tall black and light oak accent cabinet with LED lighting.",
+    "description": "From the 2026 Coaster Supplement Timeless Accent Cabinets collection. Tall accent cabinet with clear tempered glass, black hardware, LED lighting, soft-closing doors, two adjustable shelves, and three fixed shelves. Dimensions: 35.50 in W x 15.50 in D x 70.75 in H.",
+    "priceCents": 79900,
+    "sku": "950432",
+    "material": "Engineered wood, melamine paper, tempered glass, metal",
+    "color": "Black / Light Oak",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": true,
+    "tags": [
+      "coaster-2026-supplement",
+      "timeless-accent-cabinets",
+      "accents",
+      "accent-cabinet",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_01xHD.jpg",
+        "altText": "Tall Accent Cabinet view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_02xHD.jpg",
+        "altText": "Tall Accent Cabinet view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_03xHD.jpg",
+        "altText": "Tall Accent Cabinet view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_04xHD.jpg",
+        "altText": "Tall Accent Cabinet view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_05xHD.jpg",
+        "altText": "Tall Accent Cabinet view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_06xHD.jpg",
+        "altText": "Tall Accent Cabinet view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_07xHD.jpg",
+        "altText": "Tall Accent Cabinet view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_08xHD.jpg",
+        "altText": "Tall Accent Cabinet view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_09xHD.jpg",
+        "altText": "Tall Accent Cabinet view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_10xHD.jpg",
+        "altText": "Tall Accent Cabinet view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_11xHD.jpg",
+        "altText": "Tall Accent Cabinet view 11"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950432/950432_12xHD.jpg",
+        "altText": "Tall Accent Cabinet view 12"
+      }
+    ]
+  },
+  {
+    "name": "Accent Cabinet",
+    "slug": "accent-cabinet-950429",
+    "category": "Accents",
+    "shortDescription": "Black and light oak accent cabinet with clear tempered glass.",
+    "description": "From the 2026 Coaster Supplement Timeless Accent Cabinets collection. Accent cabinet with clear tempered glass, black hardware, soft-closing doors, and two adjustable shelves. Dimensions: 35.50 in W x 15.50 in D x 31.75 in H.",
+    "priceCents": 49900,
+    "sku": "950429",
+    "material": "Engineered wood, melamine paper, tempered glass, metal",
+    "color": "Black / Light Oak",
+    "stockQuantity": 0,
+    "status": "published",
+    "isFeatured": false,
+    "tags": [
+      "coaster-2026-supplement",
+      "timeless-accent-cabinets",
+      "accents",
+      "accent-cabinet",
+      "placeholder-price"
+    ],
+    "images": [
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_01xHD.jpg",
+        "altText": "Accent Cabinet view 1"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_02xHD.jpg",
+        "altText": "Accent Cabinet view 2"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_03xHD.jpg",
+        "altText": "Accent Cabinet view 3"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_04xHD.jpg",
+        "altText": "Accent Cabinet view 4"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_05xHD.jpg",
+        "altText": "Accent Cabinet view 5"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_06xHD.jpg",
+        "altText": "Accent Cabinet view 6"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_07xHD.jpg",
+        "altText": "Accent Cabinet view 7"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_08xHD.jpg",
+        "altText": "Accent Cabinet view 8"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_09xHD.jpg",
+        "altText": "Accent Cabinet view 9"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_10xHD.jpg",
+        "altText": "Accent Cabinet view 10"
+      },
+      {
+        "url": "https://pictures.coastercenter.com/items/950429/950429_11xHD.jpg",
+        "altText": "Accent Cabinet view 11"
+      }
+    ]
+  }
+]

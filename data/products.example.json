@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Example Sofa",
+    "slug": "example-sofa",
+    "category": "Living Room",
+    "shortDescription": "A short merchandising sentence for product grids.",
+    "description": "A fuller product description for the PDP.",
+    "priceCents": 980000,
+    "compareAtPriceCents": null,
+    "tradePriceCents": null,
+    "sku": "FF-EXAMPLE-001",
+    "material": "Boucle, oak",
+    "color": "Ivory",
+    "stockQuantity": 8,
+    "status": "published",
+    "isFeatured": true,
+    "tags": ["sofa", "living-room"],
+    "images": [
+      {
+        "url": "https://example.com/example-sofa.jpg",
+        "altText": "Example Sofa in ivory boucle"
+      }
+    ]
+  }
+]
