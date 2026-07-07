@@ -1,6 +1,7 @@
 import { cache } from 'react'
 import { and, asc, desc, eq, inArray, sql } from 'drizzle-orm'
 import { getDb, schema } from '@/db'
+import seedProducts from '../../data/products.json'
 import { formatCents, titleizeSlug } from './format'
 
 const { products, productImages, categories } = schema
@@ -61,6 +62,15 @@ function colorVariantGroup(tags = []) {
   return tag ? tag.slice(prefix.length) : null
 }
 
+function slugify(value = '') {
+  return value
+    .toLowerCase()
+    .trim()
+    .replace(/['"]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+}
+
 function badgeFor(p) {
   if (p.compareAtPriceCents && p.compareAtPriceCents > p.priceCents) return 'Sale'
   if (p.isFeatured) return 'Featured'
@@ -108,6 +118,71 @@ function mapProduct(p, images = []) {
   }
 }
 
+function normalizeSeedProduct(product, index) {
+  const categoryName = product.category || 'Furniture'
+  const categorySlug = slugify(categoryName)
+
+  return {
+    id: product.id || product.slug || `seed-${index + 1}`,
+    name: product.name,
+    slug: product.slug || slugify(product.name),
+    sku: product.sku || '',
+    description: product.description || '',
+    shortDescription: product.shortDescription || '',
+    priceCents: Number.isInteger(product.priceCents) ? product.priceCents : 0,
+    compareAtPriceCents: Number.isInteger(product.compareAtPriceCents)
+      ? product.compareAtPriceCents
+      : null,
+    material: product.material || '',
+    color: product.color || '',
+    stockQuantity: Number.isInteger(product.stockQuantity) ? product.stockQuantity : 0,
+    isFeatured: Boolean(product.isFeatured),
+    status: product.status || 'published',
+    tags: Array.isArray(product.tags) ? product.tags : [],
+    categoryName,
+    categorySlug,
+    images: Array.isArray(product.images)
+      ? product.images
+          .filter((image) => image?.url)
+          .map((image, imageIndex) => ({
+            productId: product.slug || `seed-${index + 1}`,
+            url: image.url,
+            altText: image.altText || product.name,
+            isPrimary: imageIndex === 0,
+            sortOrder: imageIndex,
+          }))
+      : [],
+  }
+}
+
+const seedRows = seedProducts.map(normalizeSeedProduct)
+
+function getSeedProductRows() {
+  return seedRows.filter((product) => product.status === 'published')
+}
+
+function getSeedProducts() {
+  return getSeedProductRows().map((product) => mapProduct(product, product.images))
+}
+
+function getSeedCategories() {
+  const categoriesBySlug = new Map()
+
+  for (const product of getSeedProductRows()) {
+    const current = categoriesBySlug.get(product.categorySlug) || {
+      id: product.categorySlug,
+      name: product.categoryName,
+      slug: product.categorySlug,
+      count: 0,
+    }
+
+    current.count += 1
+    categoriesBySlug.set(product.categorySlug, current)
+  }
+
+  return [...categoriesBySlug.values()].sort((a, b) => a.name.localeCompare(b.name))
+}
+
 const baseSelect = {
   id: products.id,
   name: products.name,
@@ -150,6 +225,8 @@ async function imagesByProduct(db, productIds) {
 }
 
 export const getCategories = cache(async () => {
+  if (!process.env.DATABASE_URL) return getSeedCategories()
+
   const db = getDb()
   const rows = await db
     .select({
@@ -169,6 +246,8 @@ export const getCategories = cache(async () => {
 })
 
 export const getAllProducts = cache(async () => {
+  if (!process.env.DATABASE_URL) return getSeedProducts()
+
   const db = getDb()
   const rows = await db
     .select(baseSelect)
@@ -193,6 +272,10 @@ export const getFeaturedProducts = cache(async (limit = 8) => {
 })
 
 export const getProductBySlug = cache(async (slug) => {
+  if (!process.env.DATABASE_URL) {
+    return getSeedProducts().find((product) => product.slug === slug) || null
+  }
+
   const db = getDb()
   const [row] = await db
     .select(baseSelect)
