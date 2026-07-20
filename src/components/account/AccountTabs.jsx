@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { logout } from '@/lib/auth-actions'
 
 const TABS = [
   { href: '/account', label: 'Overview' },
@@ -27,6 +28,14 @@ export default function AccountTabs({ active }) {
           </Link>
         )
       })}
+      <form action={logout} className="ml-auto">
+        <button
+          type="submit"
+          className="text-[0.66rem] tracking-[0.16em] uppercase pb-3.5 text-[var(--color-mid-gray)] hover:text-[var(--color-black)]"
+        >
+          Sign out
+        </button>
+      </form>
     </div>
   )
 }

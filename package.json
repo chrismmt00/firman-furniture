@@ -4,15 +4,17 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "prisma generate && next build",
+    "vercel-build": "prisma generate && prisma migrate deploy && next build",
     "start": "next start",
     "lint": "eslint",
-    "db:generate": "drizzle-kit generate",
+    "db:generate": "prisma generate",
+    "db:migrate": "dotenv -e .env.local -- prisma migrate dev",
+    "db:migrate:deploy": "dotenv -e .env.local -- prisma migrate deploy",
+    "db:pull": "dotenv -e .env.local -- prisma db pull",
+    "db:status": "dotenv -e .env.local -- prisma migrate status",
+    "db:studio": "dotenv -e .env.local -- prisma studio",
     "db:setup:local": "node scripts/setup-local-database.mjs",
-    "db:migrate": "drizzle-kit migrate",
-    "db:push": "drizzle-kit push",
-    "db:studio": "drizzle-kit studio",
-    "db:check": "drizzle-kit check",
     "db:validate:products": "node scripts/import-products.mjs --dry-run",
     "db:import:products": "node scripts/import-products.mjs",
     "db:verify:products": "node scripts/verify-products.mjs",
@@ -21,19 +23,25 @@
     "db:verify:product-prices": "node scripts/verify-products.mjs --min-price-cents=1"
   },
   "dependencies": {
-    "@neondatabase/serverless": "^1.1.0",
-    "drizzle-orm": "^0.45.2",
-    "next": "16.2.4",
+    "@prisma/adapter-pg": "^7.8.0",
+    "@prisma/client": "^7.8.0",
+    "@sentry/nextjs": "^10.65.0",
+    "bcryptjs": "^3.0.3",
+    "next": "^16.2.10",
+    "pg": "^8.22.0",
     "postgres": "^3.4.9",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "stripe": "^22.3.1",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@next/env": "^16.2.4",
     "@tailwindcss/postcss": "^4",
-    "drizzle-kit": "^0.31.10",
+    "dotenv-cli": "^11.0.0",
     "eslint": "^9",
     "eslint-config-next": "16.2.4",
+    "prisma": "^7.8.0",
     "tailwindcss": "^4"
   }
 }

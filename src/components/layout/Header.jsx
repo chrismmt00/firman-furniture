@@ -21,7 +21,7 @@ const navBtn =
   'text-[0.68rem] tracking-[0.2em] uppercase text-[var(--color-charcoal)] hover:text-[var(--color-champagne-dark)] transition-colors'
 
 export default function Header() {
-  const { cartCount, wishlist, openCart, openSearch, openAuth } = useStore()
+  const { cartCount, wishlist, openCart, openSearch } = useStore()
   const [mobileOpen, setMobileOpen] = useState(false)
   const wishlistCount = wishlist.length
 
@@ -66,7 +66,7 @@ export default function Header() {
           {/* Right */}
           <div className="hidden lg:flex gap-[1.4rem] items-center justify-end">
             <button onClick={openSearch} aria-label="Search" className={navBtn}>Search</button>
-            <button onClick={() => openAuth('login')} className={navBtn}>Account</button>
+            <Link href="/account" className={navBtn}>Account</Link>
             <Link href="/account/wishlist" className={`${navBtn} flex items-center gap-1.5`}>
               Saved<span className="text-[var(--color-champagne-dark)]">({wishlistCount})</span>
             </Link>
@@ -99,7 +99,7 @@ export default function Header() {
                 <Link key={n.href} href={n.href} onClick={() => setMobileOpen(false)} className="text-left px-4 py-4 font-serif text-2xl text-[var(--color-black)] border-b border-[var(--color-stone)] hover:text-[var(--color-champagne-dark)]">{n.label}</Link>
               ))}
               <div className="flex flex-col gap-1 mt-4 px-4">
-                <button onClick={() => { setMobileOpen(false); openAuth('login') }} className="text-left py-2.5 text-[0.7rem] tracking-[0.18em] uppercase text-[var(--color-charcoal)] hover:text-[var(--color-champagne-dark)]">Account</button>
+                <Link href="/account" onClick={() => setMobileOpen(false)} className="py-2.5 text-[0.7rem] tracking-[0.18em] uppercase text-[var(--color-charcoal)] hover:text-[var(--color-champagne-dark)]">Account</Link>
                 <Link href="/account/wishlist" onClick={() => setMobileOpen(false)} className="py-2.5 text-[0.7rem] tracking-[0.18em] uppercase text-[var(--color-charcoal)] hover:text-[var(--color-champagne-dark)]">Saved ({wishlistCount})</Link>
                 <Link href="/account/orders" onClick={() => setMobileOpen(false)} className="py-2.5 text-[0.7rem] tracking-[0.18em] uppercase text-[var(--color-charcoal)] hover:text-[var(--color-champagne-dark)]">Orders</Link>
                 <Link href="/contact" onClick={() => setMobileOpen(false)} className="py-2.5 text-[0.7rem] tracking-[0.18em] uppercase text-[var(--color-charcoal)] hover:text-[var(--color-champagne-dark)]">Contact</Link>

@@ -21,6 +21,7 @@ const dmSans = DM_Sans({
 })
 
 export const metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://firmanfurniture.com'),
   title: {
     default: 'Firman Furniture — Luxury Furniture',
     template: '%s — Firman Furniture',
@@ -32,6 +33,7 @@ export const metadata = {
     locale: 'en_US',
     siteName: 'Firman Furniture',
   },
+  robots: { index: true, follow: true },
 }
 
 export default async function RootLayout({ children }) {

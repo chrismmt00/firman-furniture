@@ -1,20 +1,25 @@
 'use client'
 
-import { useState } from 'react'
+import { useActionState, useState } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
 import { useStore } from '@/components/providers/StoreProvider'
 import { formatCents } from '@/lib/format'
 import { cartTotals, STANDARD_SHIPPING } from '@/lib/cart-totals'
+import { beginCheckout } from '@/lib/checkout-actions'
 
 const input =
   'p-4 bg-[var(--color-white)] border border-[var(--color-stone)] outline-none text-sm font-light focus:border-[var(--color-charcoal)]'
 
 export default function CheckoutView() {
-  const { cart, hydrated, clearCart } = useStore()
-  const router = useRouter()
+  const { cart, hydrated } = useStore()
   const [step, setStep] = useState(1)
   const [shipMethod, setShipMethod] = useState('white-glove')
+  const [contact, setContact] = useState({
+    email: '', firstName: '', lastName: '', address1: '', address2: '',
+    city: '', state: '', postalCode: '', phone: '',
+  })
+  const [contactError, setContactError] = useState('')
+  const [payState, payAction, payPending] = useActionState(beginCheckout, {})
 
   if (hydrated && cart.length === 0) {
     return (
@@ -26,17 +31,31 @@ export default function CheckoutView() {
   }
 
   const shippingOverride = shipMethod === 'standard' ? STANDARD_SHIPPING : 0
+  // Display-only estimate; the authoritative totals are recomputed server-side.
   const totals = cartTotals(cart, { shippingOverride })
 
-  const placeOrder = () => {
-    // eslint-disable-next-line react-hooks/purity
-    const number = `FRM-${Math.floor(20000 + Math.random() * 9000)}`
-    try {
-      sessionStorage.setItem('firman.lastOrder', JSON.stringify({ number, total: totals.total }))
-    } catch { /* ignore */ }
-    clearCart()
-    router.push('/checkout/success')
+  const setField = (k) => (e) => setContact((c) => ({ ...c, [k]: e.target.value }))
+
+  const continueToDelivery = () => {
+    const required = ['email', 'firstName', 'lastName', 'address1', 'city', 'state', 'postalCode']
+    if (required.some((k) => !contact[k].trim())) {
+      setContactError('Please fill in all required fields.')
+      return
+    }
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(contact.email.trim())) {
+      setContactError('Enter a valid email address.')
+      return
+    }
+    setContactError('')
+    setStep(2)
   }
+
+  // Server payload: contact/shipping + cart lines (ids + quantities only — never prices).
+  const payload = JSON.stringify({
+    ...contact,
+    shippingMethod: shipMethod,
+    items: cart.map((c) => ({ id: c.id, qty: c.qty, variant: c.variant || null })),
+  })
 
   const stepStyle = (n) =>
     `${n === step ? 'text-[var(--color-black)] font-medium' : n < step ? 'text-[var(--color-champagne-dark)]' : 'text-[var(--color-warm-gray)]'}`
@@ -49,8 +68,7 @@ export default function CheckoutView() {
       </div>
       <div className="flex gap-6 my-6 text-[0.64rem] tracking-[0.16em] uppercase">
         <span className={stepStyle(1)}>1 · Information</span>
-        <span className={stepStyle(2)}>2 · Delivery &amp; Payment</span>
-        <span className={stepStyle(3)}>3 · Review</span>
+        <span className={stepStyle(2)}>2 · Delivery &amp; Review</span>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-[1fr_minmax(300px,380px)] gap-12 items-start">
@@ -59,49 +77,36 @@ export default function CheckoutView() {
             <>
               <h2 className="text-2xl">Contact &amp; shipping</h2>
               <div className="grid grid-cols-2 gap-3 mt-5">
-                <input placeholder="Email" className={`${input} col-span-2`} />
-                <input placeholder="First name" className={input} />
-                <input placeholder="Last name" className={input} />
-                <input placeholder="Address" className={`${input} col-span-2`} />
-                <input placeholder="City" className={input} />
-                <input placeholder="State" className={input} />
-                <input placeholder="ZIP" className={input} />
-                <input placeholder="Phone" className={input} />
+                <input value={contact.email} onChange={setField('email')} type="email" required placeholder="Email *" autoComplete="email" className={`${input} col-span-2`} />
+                <input value={contact.firstName} onChange={setField('firstName')} required placeholder="First name *" autoComplete="given-name" className={input} />
+                <input value={contact.lastName} onChange={setField('lastName')} required placeholder="Last name *" autoComplete="family-name" className={input} />
+                <input value={contact.address1} onChange={setField('address1')} required placeholder="Address *" autoComplete="address-line1" className={`${input} col-span-2`} />
+                <input value={contact.address2} onChange={setField('address2')} placeholder="Apt, suite (optional)" autoComplete="address-line2" className={`${input} col-span-2`} />
+                <input value={contact.city} onChange={setField('city')} required placeholder="City *" autoComplete="address-level2" className={input} />
+                <input value={contact.state} onChange={setField('state')} required placeholder="State *" autoComplete="address-level1" className={input} />
+                <input value={contact.postalCode} onChange={setField('postalCode')} required placeholder="ZIP *" autoComplete="postal-code" className={input} />
+                <input value={contact.phone} onChange={setField('phone')} placeholder="Phone (optional)" autoComplete="tel" className={input} />
               </div>
-              <button onClick={() => setStep(2)} className="mt-6 w-full py-4 bg-[var(--color-black)] text-[var(--color-ivory)] text-[0.68rem] tracking-[0.22em] uppercase font-medium hover:bg-[var(--color-champagne-dark)] transition-colors">Continue to delivery</button>
+              {contactError ? <p className="text-[0.8rem] text-red-700 mt-3">{contactError}</p> : null}
+              <button onClick={continueToDelivery} className="mt-6 w-full py-4 bg-[var(--color-black)] text-[var(--color-ivory)] text-[0.68rem] tracking-[0.22em] uppercase font-medium hover:bg-[var(--color-champagne-dark)] transition-colors">Continue to delivery</button>
             </>
           )}
 
           {step === 2 && (
             <>
               <h2 className="text-2xl">Delivery method</h2>
-              <label className={`flex items-center gap-4 border p-4.5 mt-4 cursor-pointer ${shipMethod === 'white-glove' ? 'border-[var(--color-champagne)] bg-[var(--color-champagne-pale)]' : 'border-[var(--color-stone)]'}`} style={{ padding: '1.1rem' }}>
+              <label className={`flex items-center gap-4 border mt-4 cursor-pointer ${shipMethod === 'white-glove' ? 'border-[var(--color-champagne)] bg-[var(--color-champagne-pale)]' : 'border-[var(--color-stone)]'}`} style={{ padding: '1.1rem' }}>
                 <input type="radio" name="ship" checked={shipMethod === 'white-glove'} onChange={() => setShipMethod('white-glove')} className="accent-[var(--color-champagne-dark)]" />
                 <div className="flex-1"><p className="text-sm font-medium">White-Glove Delivery</p><p className="text-[0.76rem] text-[var(--color-mid-gray)]">Placement &amp; assembly · 3–5 weeks</p></div>
                 <span className="text-sm">Complimentary</span>
               </label>
-              <label className={`flex items-center gap-4 border p-4 mt-3 cursor-pointer ${shipMethod === 'standard' ? 'border-[var(--color-champagne)] bg-[var(--color-champagne-pale)]' : 'border-[var(--color-stone)]'}`} style={{ padding: '1.1rem' }}>
+              <label className={`flex items-center gap-4 border mt-3 cursor-pointer ${shipMethod === 'standard' ? 'border-[var(--color-champagne)] bg-[var(--color-champagne-pale)]' : 'border-[var(--color-stone)]'}`} style={{ padding: '1.1rem' }}>
                 <input type="radio" name="ship" checked={shipMethod === 'standard'} onChange={() => setShipMethod('standard')} className="accent-[var(--color-champagne-dark)]" />
                 <div className="flex-1"><p className="text-sm font-medium">Standard Freight</p><p className="text-[0.76rem] text-[var(--color-mid-gray)]">Curbside · 1–2 weeks</p></div>
                 <span className="text-sm">$250</span>
               </label>
 
-              <h2 className="text-2xl mt-8">Payment</h2>
-              <div className="grid grid-cols-2 gap-3 mt-4">
-                <input placeholder="Card number" className={`${input} col-span-2`} />
-                <input placeholder="MM / YY" className={input} />
-                <input placeholder="CVC" className={input} />
-              </div>
-              <div className="flex gap-2.5 mt-6">
-                <button onClick={() => setStep(1)} className="px-6 py-4 border border-[var(--color-charcoal)] text-[0.66rem] tracking-[0.16em] uppercase">Back</button>
-                <button onClick={() => setStep(3)} className="flex-1 py-4 bg-[var(--color-black)] text-[var(--color-ivory)] text-[0.68rem] tracking-[0.22em] uppercase font-medium hover:bg-[var(--color-champagne-dark)] transition-colors">Review order</button>
-              </div>
-            </>
-          )}
-
-          {step === 3 && (
-            <>
-              <h2 className="text-2xl">Review &amp; place order</h2>
+              <h2 className="text-2xl mt-8">Review your order</h2>
               <div className="border-t border-[var(--color-stone)] mt-4">
                 {cart.map((c) => (
                   <div key={`${c.id}-${c.variant}`} className="grid grid-cols-[56px_1fr_auto] gap-4 items-center py-3.5 border-b border-[var(--color-stone)]">
@@ -111,14 +116,25 @@ export default function CheckoutView() {
                   </div>
                 ))}
               </div>
-              <label className="flex items-center gap-2.5 mt-5 text-[0.82rem] text-[var(--color-mid-gray)]">
-                <input type="checkbox" defaultChecked className="accent-[var(--color-champagne-dark)]" />
-                I agree to the terms of service and return policy.
-              </label>
-              <div className="flex gap-2.5 mt-6">
-                <button onClick={() => setStep(2)} className="px-6 py-4 border border-[var(--color-charcoal)] text-[0.66rem] tracking-[0.16em] uppercase">Back</button>
-                <button onClick={placeOrder} className="flex-1 py-4 bg-[var(--color-champagne)] text-[var(--color-black)] text-[0.68rem] tracking-[0.22em] uppercase font-semibold hover:bg-[var(--color-champagne-light)] transition-colors">Place order · {formatCents(totals.total)}</button>
-              </div>
+
+              <p className="text-[0.8rem] text-[var(--color-mid-gray)] mt-5">
+                Payment is completed securely on Stripe — cards, Apple Pay and Google Pay. You’ll be
+                returned here once your payment is confirmed.
+              </p>
+
+              {payState?.error ? <p className="text-[0.8rem] text-red-700 mt-3">{payState.error}</p> : null}
+
+              <form action={payAction} className="flex gap-2.5 mt-6">
+                <input type="hidden" name="payload" value={payload} />
+                <button type="button" onClick={() => setStep(1)} disabled={payPending} className="px-6 py-4 border border-[var(--color-charcoal)] text-[0.66rem] tracking-[0.16em] uppercase disabled:opacity-60">Back</button>
+                <button
+                  type="submit"
+                  disabled={payPending}
+                  className="flex-1 py-4 bg-[var(--color-champagne)] text-[var(--color-black)] text-[0.68rem] tracking-[0.22em] uppercase font-semibold hover:bg-[var(--color-champagne-light)] transition-colors disabled:opacity-60 disabled:pointer-events-none"
+                >
+                  {payPending ? 'Preparing secure payment…' : `Pay securely · ${formatCents(totals.total)}`}
+                </button>
+              </form>
             </>
           )}
         </div>

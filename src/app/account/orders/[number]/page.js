@@ -1,10 +1,7 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getOrder, orders } from '@/lib/demo-data'
-
-export function generateStaticParams() {
-  return orders.map((o) => ({ number: o.number }))
-}
+import { requireUser } from '@/lib/auth'
+import { getOrderForUser } from '@/lib/orders'
 
 export async function generateMetadata({ params }) {
   const { number } = await params
@@ -13,7 +10,10 @@ export async function generateMetadata({ params }) {
 
 export default async function OrderDetailPage({ params }) {
   const { number } = await params
-  const order = getOrder(number)
+  const user = await requireUser()
+  // Ownership enforced: the query is scoped to this user, so swapping the order
+  // number in the URL can never expose someone else's order (404 instead).
+  const order = await getOrderForUser(user.id, number)
   if (!order) notFound()
 
   return (
@@ -33,7 +33,7 @@ export default async function OrderDetailPage({ params }) {
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 mt-8">
         <div className="bg-[var(--color-white)] border border-[var(--color-stone)] p-6">
           <p className="text-[0.62rem] tracking-[0.18em] uppercase text-[var(--color-warm-gray)] mb-2.5">Shipping to</p>
-          <p className="text-sm leading-relaxed">{order.customer}<br />{order.location}</p>
+          <p className="text-sm leading-relaxed">{order.customer}<br />{order.location || '—'}</p>
         </div>
         <div className="bg-[var(--color-white)] border border-[var(--color-stone)] p-6">
           <p className="text-[0.62rem] tracking-[0.18em] uppercase text-[var(--color-warm-gray)] mb-2.5">Tracking</p>

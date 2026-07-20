@@ -34,21 +34,26 @@ export default function Footer() {
             <Link href="/about" className="block text-[var(--color-white)]/70 text-[0.82rem] font-light mb-2.5 hover:text-[var(--color-champagne-light)] transition-colors">About</Link>
             <Link href="/trade-program" className="block text-[var(--color-white)]/70 text-[0.82rem] font-light mb-2.5 hover:text-[var(--color-champagne-light)] transition-colors">Trade Program</Link>
             <Link href="/contact" className="block text-[var(--color-white)]/70 text-[0.82rem] font-light mb-2.5 hover:text-[var(--color-champagne-light)] transition-colors">Contact</Link>
-            <Link href="/admin" className="block text-[var(--color-white)]/40 text-[0.82rem] font-light mb-2.5 hover:text-[var(--color-champagne-light)] transition-colors">Admin Portal</Link>
           </div>
 
           {/* Care */}
           <div>
             <p className="text-[var(--color-champagne-light)] text-[0.62rem] tracking-[0.24em] uppercase mb-[1.1rem]">Care</p>
             <Link href="/account" className="block text-[var(--color-white)]/70 text-[0.82rem] font-light mb-2.5 hover:text-[var(--color-champagne-light)] transition-colors">My Account</Link>
-            <Link href="/contact" className="block text-[var(--color-white)]/70 text-[0.82rem] font-light mb-2.5 hover:text-[var(--color-champagne-light)] transition-colors">Shipping &amp; Returns</Link>
+            <Link href="/shipping-returns" className="block text-[var(--color-white)]/70 text-[0.82rem] font-light mb-2.5 hover:text-[var(--color-champagne-light)] transition-colors">Shipping &amp; Returns</Link>
             <Link href="/contact" className="block text-[var(--color-white)]/70 text-[0.82rem] font-light mb-2.5 hover:text-[var(--color-champagne-light)] transition-colors">FAQ</Link>
           </div>
         </div>
 
         <div className="border-t border-[var(--color-white)]/15 mt-12 pt-6 flex justify-between flex-wrap gap-4 text-[var(--color-white)]/45 text-[0.72rem] font-light">
           <span>© {new Date().getFullYear()} Firman Furniture. All rights reserved.</span>
-          <span>Privacy · Terms · Accessibility</span>
+          <span className="flex gap-2">
+            <Link href="/privacy" className="hover:text-[var(--color-champagne-light)] transition-colors">Privacy</Link>
+            <span>·</span>
+            <Link href="/terms" className="hover:text-[var(--color-champagne-light)] transition-colors">Terms</Link>
+            <span>·</span>
+            <Link href="/shipping-returns" className="hover:text-[var(--color-champagne-light)] transition-colors">Shipping &amp; Returns</Link>
+          </span>
         </div>
       </div>
     </footer>

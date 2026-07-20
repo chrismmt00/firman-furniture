@@ -1,10 +1,7 @@
 import { cache } from 'react'
-import { and, asc, desc, eq, inArray, sql } from 'drizzle-orm'
-import { getDb, schema } from '@/db'
+import { getPrisma } from '@/lib/prisma'
 import seedProducts from '../../data/products.json'
 import { formatCents, titleizeSlug } from './format'
-
-const { products, productImages, categories } = schema
 
 const PLACEHOLDER_IMAGE =
   'https://images.unsplash.com/photo-1538688525198-9b88f6f53126?auto=format&fit=crop&w=900&q=85'
@@ -118,6 +115,42 @@ function mapProduct(p, images = []) {
   }
 }
 
+/* Prisma rows use snake_case column names; adapt them to the camelCase shape
+   mapProduct (and the seed path) expect, so the view model stays identical. */
+function productFromDb(p) {
+  return {
+    id: p.id,
+    name: p.name,
+    slug: p.slug,
+    sku: p.sku,
+    description: p.description,
+    shortDescription: p.short_description,
+    priceCents: p.price_cents,
+    compareAtPriceCents: p.compare_at_price_cents,
+    material: p.material,
+    color: p.color,
+    stockQuantity: p.stock_quantity,
+    isFeatured: p.is_featured,
+    status: p.status,
+    tags: p.tags,
+    categoryName: p.categories?.name || null,
+    categorySlug: p.categories?.slug || null,
+  }
+}
+
+function imageFromDb(i) {
+  return { url: i.url, altText: i.alt_text, isPrimary: i.is_primary, sortOrder: i.sort_order }
+}
+
+const productInclude = {
+  categories: { select: { name: true, slug: true } },
+  product_images: true,
+}
+
+function mapDbProduct(row) {
+  return mapProduct(productFromDb(row), (row.product_images || []).map(imageFromDb))
+}
+
 function normalizeSeedProduct(product, index) {
   const categoryName = product.category || 'Furniture'
   const categorySlug = slugify(categoryName)
@@ -183,80 +216,42 @@ function getSeedCategories() {
   return [...categoriesBySlug.values()].sort((a, b) => a.name.localeCompare(b.name))
 }
 
-const baseSelect = {
-  id: products.id,
-  name: products.name,
-  slug: products.slug,
-  sku: products.sku,
-  description: products.description,
-  shortDescription: products.shortDescription,
-  priceCents: products.priceCents,
-  compareAtPriceCents: products.compareAtPriceCents,
-  material: products.material,
-  color: products.color,
-  stockQuantity: products.stockQuantity,
-  isFeatured: products.isFeatured,
-  status: products.status,
-  tags: products.tags,
-  categoryId: products.categoryId,
-  categoryName: categories.name,
-  categorySlug: categories.slug,
-}
-
-/* Fetch primary (or first) image url per product id, in one query. */
-async function imagesByProduct(db, productIds) {
-  if (productIds.length === 0) return new Map()
-  const rows = await db
-    .select({
-      productId: productImages.productId,
-      url: productImages.url,
-      altText: productImages.altText,
-      isPrimary: productImages.isPrimary,
-      sortOrder: productImages.sortOrder,
-    })
-    .from(productImages)
-    .where(inArray(productImages.productId, productIds))
-  const map = new Map()
-  for (const r of rows) {
-    if (!map.has(r.productId)) map.set(r.productId, [])
-    map.get(r.productId).push(r)
-  }
-  return map
-}
-
 export const getCategories = cache(async () => {
   if (!process.env.DATABASE_URL) return getSeedCategories()
 
-  const db = getDb()
-  const rows = await db
-    .select({
-      id: categories.id,
-      name: categories.name,
-      slug: categories.slug,
-      count: sql`count(${products.id})`.mapWith(Number),
-    })
-    .from(categories)
-    .leftJoin(
-      products,
-      and(eq(products.categoryId, categories.id), eq(products.status, 'published'))
-    )
-    .groupBy(categories.id, categories.name, categories.slug)
-    .orderBy(asc(categories.name))
-  return rows
+  const prisma = getPrisma()
+  const [cats, counts] = await Promise.all([
+    prisma.categories.findMany({
+      orderBy: { name: 'asc' },
+      select: { id: true, name: true, slug: true },
+    }),
+    // One grouped count of published products per category (no N+1).
+    prisma.products.groupBy({
+      by: ['category_id'],
+      where: { status: 'published' },
+      _count: { _all: true },
+    }),
+  ])
+  const countByCategory = new Map(counts.map((c) => [c.category_id, c._count._all]))
+  return cats.map((c) => ({
+    id: c.id,
+    name: c.name,
+    slug: c.slug,
+    count: countByCategory.get(c.id) ?? 0,
+  }))
 })
 
 export const getAllProducts = cache(async () => {
   if (!process.env.DATABASE_URL) return getSeedProducts()
 
-  const db = getDb()
-  const rows = await db
-    .select(baseSelect)
-    .from(products)
-    .leftJoin(categories, eq(products.categoryId, categories.id))
-    .where(eq(products.status, 'published'))
-    .orderBy(desc(products.isFeatured), asc(products.name))
-  const imgs = await imagesByProduct(db, rows.map((r) => r.id))
-  return rows.map((r) => mapProduct(r, imgs.get(r.id) || []))
+  const prisma = getPrisma()
+  // include batches the category + images fetches — two queries total, no N+1.
+  const rows = await prisma.products.findMany({
+    where: { status: 'published' },
+    orderBy: [{ is_featured: 'desc' }, { name: 'asc' }],
+    include: productInclude,
+  })
+  return rows.map(mapDbProduct)
 })
 
 export async function getProductsByCategory(categorySlug) {
@@ -276,16 +271,12 @@ export const getProductBySlug = cache(async (slug) => {
     return getSeedProducts().find((product) => product.slug === slug) || null
   }
 
-  const db = getDb()
-  const [row] = await db
-    .select(baseSelect)
-    .from(products)
-    .leftJoin(categories, eq(products.categoryId, categories.id))
-    .where(eq(products.slug, slug))
-    .limit(1)
-  if (!row) return null
-  const imgs = await imagesByProduct(db, [row.id])
-  return mapProduct(row, imgs.get(row.id) || [])
+  const prisma = getPrisma()
+  const row = await prisma.products.findUnique({
+    where: { slug },
+    include: productInclude,
+  })
+  return row ? mapDbProduct(row) : null
 })
 
 export async function getProductColorVariants(product) {

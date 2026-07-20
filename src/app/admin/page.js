@@ -1,9 +1,13 @@
 import AdminApp from '@/components/admin/AdminApp'
 import { getAllProducts, getCategories } from '@/lib/products'
+import { requireAdmin } from '@/lib/auth'
 
 export const metadata = { title: 'Store Admin' }
 
 export default async function AdminPage() {
+  // Server-side role gate — 404s for non-admins (and redirects anonymous users to login).
+  await requireAdmin()
+
   let products = []
   let categories = []
   try {
