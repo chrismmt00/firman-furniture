@@ -22,6 +22,21 @@ const PRICE_TESTS = {
   '5000+': (p) => p.price >= 500000,
 }
 
+/* First page, last page and a window around the current one, with gaps
+   between. Never more than 7 entries, so the pagination row stays the same
+   width however many pages the catalogue has. */
+function pageWindow(current, total) {
+  if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1)
+  const start = Math.max(2, Math.min(current - 1, total - 4))
+  const end = Math.min(total - 1, Math.max(current + 1, 5))
+  const pages = [1]
+  if (start > 2) pages.push('gap-start')
+  for (let n = start; n <= end; n++) pages.push(n)
+  if (end < total - 1) pages.push('gap-end')
+  pages.push(total)
+  return pages
+}
+
 export default function ShopView({ products, facets, title, initialCategory = 'all' }) {
   const [category, setCategory] = useState(initialCategory)
   const [price, setPrice] = useState('all')
@@ -188,10 +203,10 @@ export default function ShopView({ products, facets, title, initialCategory = 'a
         Filters &amp; Sort ({chips.length})
       </button>
 
-      <div className="grid grid-cols-1 lg:grid-cols-[240px_1fr] gap-[clamp(1.6rem,3vw,3rem)] items-start">
+      <div className="grid grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)] gap-[clamp(1.6rem,3vw,3rem)] items-start">
         <div className={`${mobileFiltersOpen ? 'block' : 'hidden'} lg:block`}>{sidebar}</div>
 
-        <div>
+        <div className="min-w-0">
           <div className="flex items-center justify-between gap-4 flex-wrap pb-4 border-b border-[var(--color-stone)] mb-6">
             <span className="text-[0.78rem] text-[var(--color-mid-gray)]">
               {filtered.length > 0
@@ -227,12 +242,12 @@ export default function ShopView({ products, facets, title, initialCategory = 'a
             </div>
           ) : (
             <>
-              <div className="grid grid-cols-[repeat(auto-fill,minmax(220px,1fr))] gap-[clamp(1.2rem,2.5vw,1.8rem)]">
+              <div className="grid grid-cols-[repeat(auto-fill,minmax(min(220px,100%),1fr))] gap-[clamp(1.2rem,2.5vw,1.8rem)]">
                 {pageItems.map((p) => <ProductCard key={p.id} product={p} />)}
               </div>
 
               {pageCount > 1 && (
-                <nav className="flex items-center justify-center gap-1.5 mt-14" aria-label="Pagination">
+                <nav className="flex flex-wrap items-center justify-center gap-1.5 mt-14" aria-label="Pagination">
                   <button
                     onClick={() => goToPage(current - 1)}
                     disabled={current === 1}
@@ -240,20 +255,27 @@ export default function ShopView({ products, facets, title, initialCategory = 'a
                   >
                     Prev
                   </button>
-                  {Array.from({ length: pageCount }, (_, i) => i + 1).map((n) => (
-                    <button
-                      key={n}
-                      onClick={() => goToPage(n)}
-                      aria-current={n === current ? 'page' : undefined}
-                      className={`w-9 h-9 text-[0.78rem] flex items-center justify-center transition-colors ${
-                        n === current
-                          ? 'border border-[var(--color-champagne)] text-[var(--color-black)]'
-                          : 'text-[var(--color-mid-gray)] hover:text-[var(--color-black)]'
-                      }`}
-                    >
-                      {n}
-                    </button>
-                  ))}
+                  <span className="sm:hidden px-2 text-[0.78rem] text-[var(--color-mid-gray)]">
+                    Page <span className="text-[var(--color-black)]">{current}</span> of {pageCount}
+                  </span>
+                  {pageWindow(current, pageCount).map((n) =>
+                    typeof n === 'string' ? (
+                      <span key={n} aria-hidden="true" className="hidden sm:flex w-9 h-9 items-center justify-center text-[0.78rem] text-[var(--color-warm-gray)]">…</span>
+                    ) : (
+                      <button
+                        key={n}
+                        onClick={() => goToPage(n)}
+                        aria-current={n === current ? 'page' : undefined}
+                        className={`hidden sm:flex w-9 h-9 text-[0.78rem] items-center justify-center transition-colors ${
+                          n === current
+                            ? 'border border-[var(--color-champagne)] text-[var(--color-black)]'
+                            : 'text-[var(--color-mid-gray)] hover:text-[var(--color-black)]'
+                        }`}
+                      >
+                        {n}
+                      </button>
+                    )
+                  )}
                   <button
                     onClick={() => goToPage(current + 1)}
                     disabled={current === pageCount}
